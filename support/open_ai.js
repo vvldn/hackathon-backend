@@ -6,9 +6,10 @@ let clientObj;
 
 const model = 'gpt-4o';
 
+
 function getClient() {
   if (clientObj) return clientObj;
-  clientObj = new openAi.OpenAI({ apiKey: properties.prod.openAiApiKey });
+  clientObj = new openAi.OpenAI({ apiKey: properties.db_properties.prod.openAiApiKey });
   return clientObj;
 }
 
@@ -27,6 +28,7 @@ async function getPromptResponse(prompt, responseFormat) {
 
   const { choices } = response;
   const [choice] = choices;
+  console.log('prompt response done');
   return JSON.parse(choice.message.content);
 }
 

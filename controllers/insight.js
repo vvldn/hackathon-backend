@@ -14,6 +14,7 @@ async function refreshInsights(req, res, next) {
     const insights = await insightService.reGenerateInsights();
     return res.send(insights);
   } catch (err) {
+    console.log(JSON.stringify(err));
     return next(err);
   }
 }

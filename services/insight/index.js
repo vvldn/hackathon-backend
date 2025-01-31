@@ -1,3 +1,4 @@
+const _ = require('underscore');
 const promptService = require('./prompt');
 const summaryJson = require('../../python_scripts/summary.json');
 
@@ -25,6 +26,7 @@ async function reGenerateInsights() {
   // const storedActionItems = await Promise.all(_.map(actionItems, storeActionItems));
   // const responseWithActionItemIds = [];
   setInsights(updatedInsightsJson);
+  console.log('generate insights done');
   return getPopulatedInsights();
 }
 
