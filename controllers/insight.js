@@ -1,4 +1,5 @@
 const insightService = require('../services/insight');
+const jiraUtil = require('../services/jira_util')
 
 async function getInsights(req, res, next) {
   try {
