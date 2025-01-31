@@ -1,6 +1,6 @@
 const ActionItem = require('../models/action-items');
 const { actionItemStatus } = require('../enum');
-const actionItemService = reqire('../services/action_item_processing');
+const actionItemService = require('../services/action_item_processing');
 
 async function getActionItem(req, res, next) {
   try {
