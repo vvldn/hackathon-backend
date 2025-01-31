@@ -1,7 +1,7 @@
-const ActionItem = require("../../models/action_item");
+const ActionItem = require("../../models/action-items");
 
 const jiraSupport = require('../../support/jira');
-const emailSupport = require('../../support/email');
+const emailSupport = require('../../support/mailer');
 
 async function createFaq() {
   return { success: true };
