@@ -4,15 +4,16 @@ const summaryJson = require('../../python_scripts/summary.json');
 
 const openAiSupport = require('./../../support/open_ai');
 
-let insightsJson = {};
+const Insight = require('../../models/insight');
 
-function setInsights(_insightsJson) {
-  insightsJson = _insightsJson;
+async function setInsights(_insightsJson) {
+  await Insight.deleteMany({});
+  const { insights } = _insightsJson;
+  await Insight.insertMany(insights);
 }
 
 async function getPopulatedInsights() {
-  // DB Lookups happen here.
-  return insightsJson;
+  return Insight.find({}).lean();
 }
 
 async function reGenerateInsights() {

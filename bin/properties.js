@@ -4,6 +4,8 @@ var dbProps = {
         openAiApiKey: '',
     },
     dev: {
+        url:"mongodb+srv://vigvldn:hahapass@cluster0.gsvkiv6.mongodb.net/Hackathon?retryWrites=true&w=majority&appName=Cluster0",
+        openAiApiKey: '',
     }
 };
 
