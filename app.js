@@ -46,10 +46,12 @@ app.use(express.static(path.join(__dirname, 'public')));
 const insightRouter  = require('./routes/insight_router');
 const actionItemRouter = require('./routes/action_item_router');
 const ticketRouter = require('./routes/ticket_router');
+const ragRouter = require('./routes/rag_router');
 
 app.use('/api/insights', insightRouter);
 app.use('/api/action-items', actionItemRouter);
 app.use('/api/tickets', ticketRouter);
+app.use('/api/rag', ragRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
