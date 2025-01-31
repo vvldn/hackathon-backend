@@ -6,6 +6,7 @@ const openAiSupport = require('./../../support/open_ai');
 
 const Insight = require('../../models/insight');
 const ActionItem = require('../../models/action-items');
+const Ticket = require('../../models/ticket');
 
 async function setInsights(insights) {
   await Insight.deleteMany({});
@@ -13,7 +14,13 @@ async function setInsights(insights) {
 }
 
 async function getPopulatedInsights() {
-  return Insight.find({}).lean();
+  const insights = Insight.find({}).lean();
+  const insightsWithTicketsPopulated = await Promise.all(_.map(insights, async insight => {
+    const { tickets_that_support_this } = insight;
+    const tickets = await Ticket.find({ id: { $in: tickets_that_support_this } }).lean();
+    return { ...insight, tickets };
+  }));
+  return insightsWithTicketsPopulated;
 }
 
 async function reGenerateInsights() {
