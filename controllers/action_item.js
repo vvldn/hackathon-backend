@@ -1,5 +1,6 @@
 const ActionItem = require('../models/action-items');
 const { actionItemStatus } = require('../enum');
+const actionItemService = reqire('../services/action_item_processing');
 
 async function getActionItem(req, res, next) {
   try {
@@ -17,7 +18,15 @@ async function processItem(req, res, next) {
   try {
     const { actionItemId } = req.params;
     if (!actionItemId) throw new Error('Action Item ID is required');
-    await ActionItem.findByIdAndUpdate({ _id: actionItemId }, { status: actionItemStatus.REJECTED });
+    const actionItem = await ActionItem.findById(actionItemId);
+    if (!actionItem) throw new Error('Action Item not found');
+    const { status } = actionItem;
+    if (status === actionItemStatus.CREATED) {
+      console.log('Action Item Processing Start');
+      await actionItemService.processActionItem(actionItem._id); 
+      console.log('Action Item Done');
+    }
+    await ActionItem.findByIdAndUpdate({ _id: actionItemId }, { status: actionItemStatus.PROCESSED });
     return res.send({ success: true });
   } catch (err) {
     console.log('error', JSON.stringify(err));

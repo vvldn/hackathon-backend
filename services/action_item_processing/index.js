@@ -52,3 +52,5 @@ async function processActionItem(actionItemId) {
   }
   return actionItemHandler(actionItem);
 }
+
+module.exports = { processActionItem };
