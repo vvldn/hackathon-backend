@@ -46,10 +46,12 @@ app.use(express.static(path.join(__dirname, 'public')));
 const insightRouter  = require('./routes/insight_router');
 const actionItemRouter = require('./routes/action_item_router');
 const ticketRouter = require('./routes/ticket_router');
+const ragRouter = require('./routes/rag_router');
 
 app.use('/api/insights', insightRouter);
 app.use('/api/action-items', actionItemRouter);
 app.use('/api/tickets', ticketRouter);
+app.use('/api/rag', ragRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
@@ -58,14 +60,9 @@ app.use(function(req, res, next) {
   next(err);
 });
 
-// error handler
-app.use(function(err, req, res, next) {
-  // set locals, only providing error in development
-  res.locals.message = err.message;
-  res.locals.error = req.app.get('env') === 'development' ? err : {};
-
-  // render the error page
-  res.status(err.status || 500);
-});
+function errorHandlerCustom(err, req, res, next) {
+  console.log(`Error: ${err.message}, Error Handler Stack: ${err.stack}`);
+return res.status(httpErrorStatusCodes.INTERNAL_SERVER_ERROR).send({ reason: `Internal Server Error. Please try again later. ${err.message} - ${err.stack} ` });
+}
 
 module.exports = app;
