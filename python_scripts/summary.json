@@ -1,0 +1,4279 @@
+{
+  "offlineIssues": {
+    "keyWords": [
+      {
+        "word": "wifi",
+        "frequency": 23,
+        "ticket_id": "215431000155953729"
+      },
+      {
+        "word": "no_staff_available",
+        "frequency": 1,
+        "ticket_id": "215431000155953729"
+      },
+      {
+        "word": "parking",
+        "frequency": 26,
+        "ticket_id": "215431000160606924"
+      },
+      {
+        "word": "internet",
+        "frequency": 13,
+        "ticket_id": "215431000156364001"
+      },
+      {
+        "word": "faulty_equipment",
+        "frequency": 1,
+        "ticket_id": "215431000160665025"
+      },
+      {
+        "word": "insufficient_speed",
+        "frequency": 1,
+        "ticket_id": "215431000154682001"
+      },
+      {
+        "word": "inconsistent_network",
+        "frequency": 1,
+        "ticket_id": "215431000155474025"
+      },
+      {
+        "word": "no_parking",
+        "frequency": 3,
+        "ticket_id": "215431000155419197"
+      },
+      {
+        "word": "not_working",
+        "frequency": 1,
+        "ticket_id": "215431000154993037"
+      },
+      {
+        "word": "unable_to_connect",
+        "frequency": 1,
+        "ticket_id": "215431000157749001"
+      },
+      {
+        "word": "poor_coverage",
+        "frequency": 1,
+        "ticket_id": "215431000160904565"
+      },
+      {
+        "word": "slow",
+        "frequency": 1,
+        "ticket_id": "215431000160490822"
+      },
+      {
+        "word": "buffering",
+        "frequency": 1,
+        "ticket_id": "215431000160798022"
+      },
+      {
+        "word": "None  ",
+        "frequency": 59,
+        "ticket_id": "215431000157733851"
+      },
+      {
+        "word": "False  ",
+        "frequency": 54,
+        "ticket_id": "215431000157733851"
+      },
+      {
+        "word": "seating  ",
+        "frequency": 3,
+        "ticket_id": "215431000161008001"
+      },
+      {
+        "word": "uncomfortable_seating  ",
+        "frequency": 1,
+        "ticket_id": "215431000161008001"
+      },
+      {
+        "word": "improper_furniture  ",
+        "frequency": 1,
+        "ticket_id": "215431000161874436"
+      },
+      {
+        "word": "parking  ",
+        "frequency": 11,
+        "ticket_id": "215431000158133351"
+      },
+      {
+        "word": "no_parking  ",
+        "frequency": 2,
+        "ticket_id": "215431000158133351"
+      },
+      {
+        "word": "True  ",
+        "frequency": 7,
+        "ticket_id": "215431000158133351"
+      },
+      {
+        "word": "email_required_for_parking  ",
+        "frequency": 1,
+        "ticket_id": "215431000156917266"
+      },
+      {
+        "word": "parking_issues  ",
+        "frequency": 1,
+        "ticket_id": "215431000156486504"
+      },
+      {
+        "word": "unable_to_park  ",
+        "frequency": 1,
+        "ticket_id": "215431000157881174"
+      },
+      {
+        "word": "wifi  ",
+        "frequency": 11,
+        "ticket_id": "215431000159267025"
+      },
+      {
+        "word": "internet  ",
+        "frequency": 1,
+        "ticket_id": "215431000160386006"
+      },
+      {
+        "word": "slow_internet  ",
+        "frequency": 1,
+        "ticket_id": "215431000160386006"
+      },
+      {
+        "word": "poor_internet_speed",
+        "frequency": 1,
+        "ticket_id": "215431000160169174"
+      },
+      {
+        "word": "chairs",
+        "frequency": 1,
+        "ticket_id": "215431000158333262"
+      },
+      {
+        "word": "poor_seating",
+        "frequency": 2,
+        "ticket_id": "215431000158333262"
+      },
+      {
+        "word": "limited_access_duration",
+        "frequency": 1,
+        "ticket_id": "215431000156437170"
+      },
+      {
+        "word": "no_good_ambience",
+        "frequency": 1,
+        "ticket_id": "215431000161735001"
+      },
+      {
+        "word": "unable_to_use_space",
+        "frequency": 1,
+        "ticket_id": "215431000159240786"
+      },
+      {
+        "word": "internet_issues",
+        "frequency": 1,
+        "ticket_id": "215431000157354198"
+      },
+      {
+        "word": "staff_unaware_features",
+        "frequency": 1,
+        "ticket_id": "215431000159309001"
+      },
+      {
+        "word": "no_staff_guidance",
+        "frequency": 1,
+        "ticket_id": "215431000158456422"
+      },
+      {
+        "word": "limited_staff_support",
+        "frequency": 1,
+        "ticket_id": "215431000155672172"
+      },
+      {
+        "word": "seating",
+        "frequency": 3,
+        "ticket_id": "215431000160269051"
+      },
+      {
+        "word": "poor_management",
+        "frequency": 1,
+        "ticket_id": "215431000160269051"
+      },
+      {
+        "word": "TV/monitor",
+        "frequency": 1,
+        "ticket_id": "215431000159883835"
+      },
+      {
+        "word": "printer",
+        "frequency": 1,
+        "ticket_id": "215431000160667013"
+      },
+      {
+        "word": "unstable_internet",
+        "frequency": 1,
+        "ticket_id": "215431000161087937"
+      },
+      {
+        "word": "ac  ",
+        "frequency": 2,
+        "ticket_id": "215431000155057544"
+      },
+      {
+        "word": "poor_service_and_maintenance  ",
+        "frequency": 1,
+        "ticket_id": "215431000155057544"
+      },
+      {
+        "word": "poor_space_assignment  ",
+        "frequency": 1,
+        "ticket_id": "215431000154861209"
+      },
+      {
+        "word": "uncomfortable_temperature  ",
+        "frequency": 1,
+        "ticket_id": "215431000160285192"
+      },
+      {
+        "word": "coffee  ",
+        "frequency": 2,
+        "ticket_id": "215431000155650001"
+      },
+      {
+        "word": "hygiene_issues  ",
+        "frequency": 1,
+        "ticket_id": "215431000155650001"
+      },
+      {
+        "word": "poor_air_quality  ",
+        "frequency": 1,
+        "ticket_id": "215431000155144223"
+      },
+      {
+        "word": "poor_management  ",
+        "frequency": 5,
+        "ticket_id": "215431000154445319"
+      },
+      {
+        "word": "pantry  ",
+        "frequency": 2,
+        "ticket_id": "215431000158916205"
+      },
+      {
+        "word": "poor_facilities  ",
+        "frequency": 3,
+        "ticket_id": "215431000158916205"
+      },
+      {
+        "word": "N/A  ",
+        "frequency": 2,
+        "ticket_id": "215431000154823061"
+      },
+      {
+        "word": "AC  ",
+        "frequency": 1,
+        "ticket_id": "215431000155106889"
+      },
+      {
+        "word": "Single Word",
+        "frequency": 30,
+        "ticket_id": "215431000159086544"
+      },
+      {
+        "word": "Enumerator",
+        "frequency": 30,
+        "ticket_id": "215431000159086544"
+      },
+      {
+        "word": "Boolean",
+        "frequency": 30,
+        "ticket_id": "215431000159086544"
+      },
+      {
+        "word": "did_not_like_space",
+        "frequency": 1,
+        "ticket_id": "215431000159633089"
+      },
+      {
+        "word": "unrecognized_listing",
+        "frequency": 1,
+        "ticket_id": "215431000159698094"
+      },
+      {
+        "word": "service_closure",
+        "frequency": 1,
+        "ticket_id": "215431000161566651"
+      },
+      {
+        "word": "staff_confusion",
+        "frequency": 1,
+        "ticket_id": "215431000154647077"
+      },
+      {
+        "word": "reception",
+        "frequency": 3,
+        "ticket_id": "215431000160486008"
+      },
+      {
+        "word": "no_reception",
+        "frequency": 4,
+        "ticket_id": "215431000160486008"
+      },
+      {
+        "word": "not_reachable",
+        "frequency": 1,
+        "ticket_id": "215431000160824258"
+      },
+      {
+        "word": "unable_to_find_location",
+        "frequency": 1,
+        "ticket_id": "215431000158748001"
+      },
+      {
+        "word": "closed",
+        "frequency": 1,
+        "ticket_id": "215431000161117132"
+      },
+      {
+        "word": "entry_not_found",
+        "frequency": 1,
+        "ticket_id": "215431000157594001"
+      },
+      {
+        "word": "closed_space",
+        "frequency": 12,
+        "ticket_id": "215431000153982236"
+      },
+      {
+        "word": "cafe",
+        "frequency": 1,
+        "ticket_id": "215431000159157174"
+      },
+      {
+        "word": "unavailable_facility",
+        "frequency": 1,
+        "ticket_id": "215431000159157174"
+      },
+      {
+        "word": " Single Word",
+        "frequency": 30,
+        "ticket_id": "215431000159095021"
+      },
+      {
+        "word": " Enumerator",
+        "frequency": 30,
+        "ticket_id": "215431000159095021"
+      },
+      {
+        "word": " Boolean",
+        "frequency": 30,
+        "ticket_id": "215431000159095021"
+      },
+      {
+        "word": "space_does_not_exist",
+        "frequency": 1,
+        "ticket_id": "215431000158778941"
+      },
+      {
+        "word": "office_closed",
+        "frequency": 1,
+        "ticket_id": "215431000151568268"
+      },
+      {
+        "word": "space_closed",
+        "frequency": 1,
+        "ticket_id": "215431000161079830"
+      },
+      {
+        "word": "desk",
+        "frequency": 2,
+        "ticket_id": "215431000155702025"
+      },
+      {
+        "word": "no_work_desk",
+        "frequency": 1,
+        "ticket_id": "215431000155702025"
+      },
+      {
+        "word": "poor_information",
+        "frequency": 1,
+        "ticket_id": "215431000155275001"
+      },
+      {
+        "word": "lack_of_privacy",
+        "frequency": 1,
+        "ticket_id": "215431000153691049"
+      },
+      {
+        "word": "location_issue",
+        "frequency": 1,
+        "ticket_id": "215431000157926990"
+      },
+      {
+        "word": "coffee",
+        "frequency": 4,
+        "ticket_id": "215431000158345069"
+      },
+      {
+        "word": "amenity_unavailability",
+        "frequency": 1,
+        "ticket_id": "215431000158345069"
+      },
+      {
+        "word": "noise",
+        "frequency": 5,
+        "ticket_id": "215431000154445704"
+      },
+      {
+        "word": "loud_music",
+        "frequency": 1,
+        "ticket_id": "215431000157788182"
+      },
+      {
+        "word": "cleanliness",
+        "frequency": 1,
+        "ticket_id": "215431000156937490"
+      },
+      {
+        "word": "cleaning_noise",
+        "frequency": 1,
+        "ticket_id": "215431000156937490"
+      },
+      {
+        "word": "noisy_workspace",
+        "frequency": 1,
+        "ticket_id": "215431000158349716"
+      },
+      {
+        "word": "inflexible_seating",
+        "frequency": 1,
+        "ticket_id": "215431000161862224"
+      },
+      {
+        "word": "poor_furniture_quality",
+        "frequency": 1,
+        "ticket_id": "215431000159192168"
+      },
+      {
+        "word": "unrecognised_listing",
+        "frequency": 1,
+        "ticket_id": "215431000159579001"
+      },
+      {
+        "word": "poor_amenities",
+        "frequency": 1,
+        "ticket_id": "215431000156933348"
+      },
+      {
+        "word": "lack_of_staff",
+        "frequency": 1,
+        "ticket_id": "215431000159414237"
+      },
+      {
+        "word": "poor_hygiene",
+        "frequency": 2,
+        "ticket_id": "215431000157339120"
+      },
+      {
+        "word": "Seating",
+        "frequency": 1,
+        "ticket_id": "215431000155953355"
+      },
+      {
+        "word": "Unavailability_of_seating",
+        "frequency": 1,
+        "ticket_id": "215431000155953355"
+      },
+      {
+        "word": "Staff",
+        "frequency": 1,
+        "ticket_id": "215431000156871160"
+      },
+      {
+        "word": "Lack_of_support",
+        "frequency": 1,
+        "ticket_id": "215431000156871160"
+      },
+      {
+        "word": "Availability",
+        "frequency": 2,
+        "ticket_id": "215431000158954206"
+      },
+      {
+        "word": "Closed_workspace",
+        "frequency": 1,
+        "ticket_id": "215431000158954206"
+      },
+      {
+        "word": "Internet",
+        "frequency": 1,
+        "ticket_id": "215431000156459174"
+      },
+      {
+        "word": "Poor_internet",
+        "frequency": 1,
+        "ticket_id": "215431000156459174"
+      },
+      {
+        "word": "Unavailable_ideal_space",
+        "frequency": 1,
+        "ticket_id": "215431000152884001"
+      },
+      {
+        "word": "desk_availability",
+        "frequency": 1,
+        "ticket_id": "215431000159711253"
+      },
+      {
+        "word": "no_staff_present",
+        "frequency": 1,
+        "ticket_id": "215431000159711253"
+      },
+      {
+        "word": "inconvenient_timing",
+        "frequency": 1,
+        "ticket_id": "215431000155069001"
+      },
+      {
+        "word": "under_maintenance",
+        "frequency": 1,
+        "ticket_id": "215431000161554037"
+      },
+      {
+        "word": "closed_due_to_festival",
+        "frequency": 1,
+        "ticket_id": "215431000160289564"
+      },
+      {
+        "word": "platform_issues",
+        "frequency": 1,
+        "ticket_id": "215431000153999013"
+      },
+      {
+        "word": "no_receptionist",
+        "frequency": 1,
+        "ticket_id": "215431000160834351"
+      },
+      {
+        "word": "ac",
+        "frequency": 2,
+        "ticket_id": "215431000154436252"
+      },
+      {
+        "word": "dirty_space",
+        "frequency": 1,
+        "ticket_id": "215431000154436252"
+      },
+      {
+        "word": "no_desks_available",
+        "frequency": 1,
+        "ticket_id": "215431000156939381"
+      },
+      {
+        "word": "food",
+        "frequency": 2,
+        "ticket_id": "215431000160289186"
+      },
+      {
+        "word": "forced_to_order",
+        "frequency": 1,
+        "ticket_id": "215431000160289186"
+      },
+      {
+        "word": "lighting",
+        "frequency": 1,
+        "ticket_id": "215431000158329414"
+      },
+      {
+        "word": "poor_lighting",
+        "frequency": 1,
+        "ticket_id": "215431000158329414"
+      },
+      {
+        "word": "closed_office",
+        "frequency": 3,
+        "ticket_id": "215431000154229101"
+      },
+      {
+        "word": "security",
+        "frequency": 1,
+        "ticket_id": "215431000155498178"
+      },
+      {
+        "word": "availability",
+        "frequency": 1,
+        "ticket_id": "215431000158577873"
+      },
+      {
+        "word": "noisy_environment",
+        "frequency": 1,
+        "ticket_id": "215431000154713081"
+      },
+      {
+        "word": "entry_card",
+        "frequency": 1,
+        "ticket_id": "215431000160682721"
+      },
+      {
+        "word": "access_issue",
+        "frequency": 3,
+        "ticket_id": "215431000160682721"
+      },
+      {
+        "word": "housekeeping",
+        "frequency": 1,
+        "ticket_id": "215431000161439007"
+      },
+      {
+        "word": "noisy",
+        "frequency": 1,
+        "ticket_id": "215431000161439007"
+      },
+      {
+        "word": "overcrowding",
+        "frequency": 1,
+        "ticket_id": "215431000156028001"
+      },
+      {
+        "word": "poor_connectivity",
+        "frequency": 1,
+        "ticket_id": "215431000154989001"
+      },
+      {
+        "word": "Entry",
+        "frequency": 1,
+        "ticket_id": "215431000159981700"
+      },
+      {
+        "word": "Unable to enter",
+        "frequency": 1,
+        "ticket_id": "215431000159981700"
+      },
+      {
+        "word": "lack_of_assistance",
+        "frequency": 1,
+        "ticket_id": "215431000158291001"
+      },
+      {
+        "word": "disruptive_maintenance",
+        "frequency": 1,
+        "ticket_id": "215431000160096035"
+      },
+      {
+        "word": "poor_staff_behaviour  ",
+        "frequency": 1,
+        "ticket_id": "215431000161890784"
+      },
+      {
+        "word": "wrong_provision  ",
+        "frequency": 1,
+        "ticket_id": "215431000160402643"
+      },
+      {
+        "word": "unreasonable_charges  ",
+        "frequency": 1,
+        "ticket_id": "215431000158328544"
+      },
+      {
+        "word": "occupied_seats  ",
+        "frequency": 1,
+        "ticket_id": "215431000157500025"
+      },
+      {
+        "word": "untrained_staff  ",
+        "frequency": 1,
+        "ticket_id": "215431000158345401"
+      },
+      {
+        "word": "  ",
+        "frequency": 20,
+        "ticket_id": "215431000154214701"
+      },
+      {
+        "word": "False   ",
+        "frequency": 9,
+        "ticket_id": "215431000154214701"
+      },
+      {
+        "word": "denied_entry",
+        "frequency": 2,
+        "ticket_id": "215431000159557013"
+      },
+      {
+        "word": "invalid_location",
+        "frequency": 1,
+        "ticket_id": "215431000153689309"
+      },
+      {
+        "word": "coworking_closed",
+        "frequency": 2,
+        "ticket_id": "215431000158583013"
+      },
+      {
+        "word": "closed_on_holiday",
+        "frequency": 2,
+        "ticket_id": "215431000151606150"
+      },
+      {
+        "word": "workplace_closed",
+        "frequency": 1,
+        "ticket_id": "215431000160306019"
+      },
+      {
+        "word": "venue_closed",
+        "frequency": 1,
+        "ticket_id": "215431000160338172"
+      },
+      {
+        "word": "access_control",
+        "frequency": 4,
+        "ticket_id": "215431000159662935"
+      },
+      {
+        "word": "poor_service",
+        "frequency": 2,
+        "ticket_id": "215431000159662935"
+      },
+      {
+        "word": "inconvenience",
+        "frequency": 3,
+        "ticket_id": "215431000155117589"
+      },
+      {
+        "word": "electricity",
+        "frequency": 2,
+        "ticket_id": "215431000161467001"
+      },
+      {
+        "word": "unavailability",
+        "frequency": 2,
+        "ticket_id": "215431000156510451"
+      },
+      {
+        "word": "membership_issue",
+        "frequency": 1,
+        "ticket_id": "215431000159632129"
+      },
+      {
+        "word": "connectivity_issue",
+        "frequency": 1,
+        "ticket_id": "215431000160665710"
+      },
+      {
+        "word": "no_staff",
+        "frequency": 2,
+        "ticket_id": "215431000155257097"
+      },
+      {
+        "word": "not_tied_up",
+        "frequency": 1,
+        "ticket_id": "215431000154923224"
+      },
+      {
+        "word": "wrong_seating",
+        "frequency": 1,
+        "ticket_id": "215431000157398672"
+      },
+      {
+        "word": "mismanagement",
+        "frequency": 1,
+        "ticket_id": "215431000155154695"
+      },
+      {
+        "word": "closure_issue",
+        "frequency": 2,
+        "ticket_id": "215431000155277186"
+      },
+      {
+        "word": "opening_time",
+        "frequency": 1,
+        "ticket_id": "215431000157000757"
+      },
+      {
+        "word": "service_miscommunication",
+        "frequency": 1,
+        "ticket_id": "215431000157069402"
+      },
+      {
+        "word": "beverage",
+        "frequency": 1,
+        "ticket_id": "215431000161902894"
+      },
+      {
+        "word": "unwelcoming_staff",
+        "frequency": 1,
+        "ticket_id": "215431000161902894"
+      },
+      {
+        "word": "office_closed_early",
+        "frequency": 2,
+        "ticket_id": "215431000160774966"
+      },
+      {
+        "word": "amenity_unavailable",
+        "frequency": 1,
+        "ticket_id": "215431000151818192"
+      },
+      {
+        "word": "occupied_room",
+        "frequency": 1,
+        "ticket_id": "215431000155483357"
+      },
+      {
+        "word": "unaware_staff",
+        "frequency": 1,
+        "ticket_id": "215431000157491001"
+      },
+      {
+        "word": "entry_restriction",
+        "frequency": 1,
+        "ticket_id": "215431000160371037"
+      },
+      {
+        "word": "non_functional_space",
+        "frequency": 1,
+        "ticket_id": "215431000157899170"
+      },
+      {
+        "word": "unwelcoming_security",
+        "frequency": 1,
+        "ticket_id": "215431000158076001"
+      },
+      {
+        "word": "nonexistent_location",
+        "frequency": 1,
+        "ticket_id": "215431000152901379"
+      },
+      {
+        "word": "late_opening",
+        "frequency": 1,
+        "ticket_id": "215431000154025162"
+      },
+      {
+        "word": "monitor",
+        "frequency": 1,
+        "ticket_id": "215431000160834037"
+      },
+      {
+        "word": "poor_quality",
+        "frequency": 1,
+        "ticket_id": "215431000158347043"
+      },
+      {
+        "word": "bad_experience",
+        "frequency": 1,
+        "ticket_id": "215431000157432068"
+      },
+      {
+        "word": "poor_internet",
+        "frequency": 1,
+        "ticket_id": "215431000153226001"
+      }
+    ]
+  },
+  "techAndProductIssues": {
+    "keyWords": [
+      {
+        "word": "payment_issue",
+        "frequency": 4,
+        "ticket_id": "215431000154870738"
+      },
+      {
+        "word": "improved_payment_processing",
+        "frequency": 2,
+        "ticket_id": "215431000154870738"
+      },
+      {
+        "word": "better_payment_error_handling",
+        "frequency": 1,
+        "ticket_id": "215431000154870738"
+      },
+      {
+        "word": "better_account_management",
+        "frequency": 3,
+        "ticket_id": "215431000156937921"
+      },
+      {
+        "word": "improved_account_deletion_process",
+        "frequency": 3,
+        "ticket_id": "215431000156937921"
+      },
+      {
+        "word": "better_auth_flow",
+        "frequency": 1,
+        "ticket_id": "215431000159105013"
+      },
+      {
+        "word": "better_validation_feedback",
+        "frequency": 1,
+        "ticket_id": "215431000155276329"
+      },
+      {
+        "word": "better_account_flow",
+        "frequency": 1,
+        "ticket_id": "215431000154438268"
+      },
+      {
+        "word": "account_management_improvement",
+        "frequency": 1,
+        "ticket_id": "215431000155981081"
+      },
+      {
+        "word": "clear_activation_process",
+        "frequency": 1,
+        "ticket_id": "215431000160535512"
+      },
+      {
+        "word": "clearer_access_instructions",
+        "frequency": 1,
+        "ticket_id": "215431000159840025"
+      },
+      {
+        "word": "unable_to_activate_account",
+        "frequency": 1,
+        "ticket_id": "215431000159625061"
+      },
+      {
+        "word": "account_activation_monitoring",
+        "frequency": 1,
+        "ticket_id": "215431000159625061"
+      },
+      {
+        "word": "not_receiving_activation_code",
+        "frequency": 1,
+        "ticket_id": "215431000160155001"
+      },
+      {
+        "word": "better_error_handling",
+        "frequency": 30,
+        "ticket_id": "215431000160155001"
+      },
+      {
+        "word": "enhanced_activation_flow",
+        "frequency": 1,
+        "ticket_id": "215431000160155001"
+      },
+      {
+        "word": "unable_to_access_wifi",
+        "frequency": 1,
+        "ticket_id": "215431000155953729"
+      },
+      {
+        "word": "unable_to_use_internet",
+        "frequency": 1,
+        "ticket_id": "215431000156364001"
+      },
+      {
+        "word": "patchy_internet",
+        "frequency": 1,
+        "ticket_id": "215431000160665025"
+      },
+      {
+        "word": "slow_internet",
+        "frequency": 3,
+        "ticket_id": "215431000154682001"
+      },
+      {
+        "word": "not_receiving_qr_code",
+        "frequency": 1,
+        "ticket_id": "215431000158156001"
+      },
+      {
+        "word": "better_email_communication",
+        "frequency": 3,
+        "ticket_id": "215431000158156001"
+      },
+      {
+        "word": "unable_to_receive_otp",
+        "frequency": 1,
+        "ticket_id": "215431000157248617"
+      },
+      {
+        "word": "better_otp_service",
+        "frequency": 1,
+        "ticket_id": "215431000157248617"
+      },
+      {
+        "word": "unable_to_connect",
+        "frequency": 1,
+        "ticket_id": "215431000156036479"
+      },
+      {
+        "word": "better_user_instructions",
+        "frequency": 1,
+        "ticket_id": "215431000156036479"
+      },
+      {
+        "word": "tutorial_feature",
+        "frequency": 1,
+        "ticket_id": "215431000156036479"
+      },
+      {
+        "word": "unable_to_login",
+        "frequency": 1,
+        "ticket_id": "215431000159650174"
+      },
+      {
+        "word": "improved_network_login",
+        "frequency": 1,
+        "ticket_id": "215431000159650174"
+      },
+      {
+        "word": "invalid_meeting_id  ",
+        "frequency": 1,
+        "ticket_id": "215431000157733851"
+      },
+      {
+        "word": "better_error_handling  ",
+        "frequency": 3,
+        "ticket_id": "215431000157733851"
+      },
+      {
+        "word": "improve_meeting_id_validation  ",
+        "frequency": 1,
+        "ticket_id": "215431000157733851"
+      },
+      {
+        "word": "None  ",
+        "frequency": 98,
+        "ticket_id": "215431000161008001"
+      },
+      {
+        "word": "parking_availability_information  ",
+        "frequency": 1,
+        "ticket_id": "215431000158133351"
+      },
+      {
+        "word": "parking_information_update  ",
+        "frequency": 1,
+        "ticket_id": "215431000157962201"
+      },
+      {
+        "word": "simplify_parking_process  ",
+        "frequency": 1,
+        "ticket_id": "215431000156917266"
+      },
+      {
+        "word": "parking_availability_update  ",
+        "frequency": 1,
+        "ticket_id": "215431000156486504"
+      },
+      {
+        "word": "enhance_parking_info  ",
+        "frequency": 1,
+        "ticket_id": "215431000157881174"
+      },
+      {
+        "word": "slow_internet  ",
+        "frequency": 1,
+        "ticket_id": "215431000160386006"
+      },
+      {
+        "word": "network_monitoring_and_optimization  ",
+        "frequency": 1,
+        "ticket_id": "215431000160386006"
+      },
+      {
+        "word": "unable_to_connect_internet",
+        "frequency": 4,
+        "ticket_id": "215431000161448975"
+      },
+      {
+        "word": "better_internet_connectivity",
+        "frequency": 1,
+        "ticket_id": "215431000161448975"
+      },
+      {
+        "word": "meeting_id_not_found",
+        "frequency": 1,
+        "ticket_id": "215431000155010548"
+      },
+      {
+        "word": "better_meeting_id_handling",
+        "frequency": 1,
+        "ticket_id": "215431000155010548"
+      },
+      {
+        "word": "limited_internet_duration",
+        "frequency": 1,
+        "ticket_id": "215431000156465001"
+      },
+      {
+        "word": "extend_internet_access_duration",
+        "frequency": 1,
+        "ticket_id": "215431000156465001"
+      },
+      {
+        "word": "better_booking_correlation",
+        "frequency": 1,
+        "ticket_id": "215431000156437170"
+      },
+      {
+        "word": "unable_to_connect_system",
+        "frequency": 1,
+        "ticket_id": "215431000156661013"
+      },
+      {
+        "word": "error_handling",
+        "frequency": 50,
+        "ticket_id": "215431000156661013"
+      },
+      {
+        "word": "network_optimization",
+        "frequency": 1,
+        "ticket_id": "215431000156106187"
+      },
+      {
+        "word": "email_not_received",
+        "frequency": 1,
+        "ticket_id": "215431000157247287"
+      },
+      {
+        "word": "email_communication",
+        "frequency": 1,
+        "ticket_id": "215431000157247287"
+      },
+      {
+        "word": "better_booking_flow",
+        "frequency": 77,
+        "ticket_id": "215431000157248001"
+      },
+      {
+        "word": "better_information_display",
+        "frequency": 2,
+        "ticket_id": "215431000155056794"
+      },
+      {
+        "word": "sign_in_error",
+        "frequency": 1,
+        "ticket_id": "215431000161744001"
+      },
+      {
+        "word": "clearer_sign_in_instructions",
+        "frequency": 1,
+        "ticket_id": "215431000161744001"
+      },
+      {
+        "word": "unable_to_find_wifi_details  ",
+        "frequency": 1,
+        "ticket_id": "215431000160667568"
+      },
+      {
+        "word": "better_email_communication  ",
+        "frequency": 1,
+        "ticket_id": "215431000160667568"
+      },
+      {
+        "word": "better_space_check  ",
+        "frequency": 1,
+        "ticket_id": "215431000154861209"
+      },
+      {
+        "word": "wifi_not_working  ",
+        "frequency": 5,
+        "ticket_id": "215431000158674321"
+      },
+      {
+        "word": "better_monitoring  ",
+        "frequency": 5,
+        "ticket_id": "215431000158674321"
+      },
+      {
+        "word": "better_wifi_support  ",
+        "frequency": 4,
+        "ticket_id": "215431000158674321"
+      },
+      {
+        "word": "better_support_escalation  ",
+        "frequency": 1,
+        "ticket_id": "215431000155708001"
+      },
+      {
+        "word": "unable_to_access_internet  ",
+        "frequency": 1,
+        "ticket_id": "215431000154445319"
+      },
+      {
+        "word": "N/A  ",
+        "frequency": 23,
+        "ticket_id": "215431000154445319"
+      },
+      {
+        "word": "unable_to_access_wifi  ",
+        "frequency": 1,
+        "ticket_id": "215431000155257294"
+      },
+      {
+        "word": "unstable_internet  ",
+        "frequency": 1,
+        "ticket_id": "215431000155699846"
+      },
+      {
+        "word": "better_information_provision  ",
+        "frequency": 1,
+        "ticket_id": "215431000154823061"
+      },
+      {
+        "word": "unable_to_connect_wifi_instructions  ",
+        "frequency": 1,
+        "ticket_id": "215431000155298037"
+      },
+      {
+        "word": "clearer_wifi_instructions  ",
+        "frequency": 1,
+        "ticket_id": "215431000155298037"
+      },
+      {
+        "word": "better_user_guidance  ",
+        "frequency": 1,
+        "ticket_id": "215431000155298037"
+      },
+      {
+        "word": "Enumerator",
+        "frequency": 22,
+        "ticket_id": "215431000159086544"
+      },
+      {
+        "word": "Small Text",
+        "frequency": 44,
+        "ticket_id": "215431000159086544"
+      },
+      {
+        "word": "wifi_not_working",
+        "frequency": 3,
+        "ticket_id": "215431000158345228"
+      },
+      {
+        "word": "no_wifi",
+        "frequency": 1,
+        "ticket_id": "215431000154801307"
+      },
+      {
+        "word": "booking_not_showing",
+        "frequency": 8,
+        "ticket_id": "215431000159232067"
+      },
+      {
+        "word": "better_monitoring",
+        "frequency": 5,
+        "ticket_id": "215431000159232067"
+      },
+      {
+        "word": "better_customer_support",
+        "frequency": 1,
+        "ticket_id": "215431000154315865"
+      },
+      {
+        "word": "no_confirmation_received",
+        "frequency": 1,
+        "ticket_id": "215431000156939198"
+      },
+      {
+        "word": "better_confirmation_system",
+        "frequency": 1,
+        "ticket_id": "215431000156939198"
+      },
+      {
+        "word": "credits_not_updated",
+        "frequency": 2,
+        "ticket_id": "215431000161032613"
+      },
+      {
+        "word": "Better monitoring, error handling",
+        "frequency": 1,
+        "ticket_id": "215431000161032613"
+      },
+      {
+        "word": "Better booking flow",
+        "frequency": 3,
+        "ticket_id": "215431000161032613"
+      },
+      {
+        "word": "booking_confirmation_missing",
+        "frequency": 1,
+        "ticket_id": "215431000151713013"
+      },
+      {
+        "word": "Monitoring, error handling",
+        "frequency": 1,
+        "ticket_id": "215431000151713013"
+      },
+      {
+        "word": "Booking display enhancement",
+        "frequency": 1,
+        "ticket_id": "215431000160828019"
+      },
+      {
+        "word": "Better booking confirmation",
+        "frequency": 1,
+        "ticket_id": "215431000160828019"
+      },
+      {
+        "word": "booking_not_confirmed",
+        "frequency": 2,
+        "ticket_id": "215431000160579089"
+      },
+      {
+        "word": "Booking confirmation improvement",
+        "frequency": 1,
+        "ticket_id": "215431000160579089"
+      },
+      {
+        "word": "booking_details_missing",
+        "frequency": 2,
+        "ticket_id": "215431000160985900"
+      },
+      {
+        "word": "Booking detail update",
+        "frequency": 2,
+        "ticket_id": "215431000160985900"
+      },
+      {
+        "word": "Better invoice communication",
+        "frequency": 1,
+        "ticket_id": "215431000160985900"
+      },
+      {
+        "word": "booking_not_visible",
+        "frequency": 6,
+        "ticket_id": "215431000157051138"
+      },
+      {
+        "word": "Booking visibility enhancement",
+        "frequency": 1,
+        "ticket_id": "215431000157051138"
+      },
+      {
+        "word": "Improved booking summary",
+        "frequency": 2,
+        "ticket_id": "215431000157051138"
+      },
+      {
+        "word": "credits_not_received",
+        "frequency": 11,
+        "ticket_id": "215431000160922453"
+      },
+      {
+        "word": "Credit update process",
+        "frequency": 1,
+        "ticket_id": "215431000160922453"
+      },
+      {
+        "word": "Better credit flow",
+        "frequency": 1,
+        "ticket_id": "215431000160922453"
+      },
+      {
+        "word": "booking_not_made",
+        "frequency": 1,
+        "ticket_id": "215431000161557001"
+      },
+      {
+        "word": "Better refund process",
+        "frequency": 1,
+        "ticket_id": "215431000161557001"
+      },
+      {
+        "word": "Booking process enhancement",
+        "frequency": 1,
+        "ticket_id": "215431000161557001"
+      },
+      {
+        "word": "unable_to_view_booking",
+        "frequency": 26,
+        "ticket_id": "215431000161881722"
+      },
+      {
+        "word": "unable_to_access_reservations_cross_platform",
+        "frequency": 1,
+        "ticket_id": "215431000153210001"
+      },
+      {
+        "word": "better_data_sync",
+        "frequency": 1,
+        "ticket_id": "215431000153210001"
+      },
+      {
+        "word": "better_platform_integration",
+        "frequency": 1,
+        "ticket_id": "215431000153210001"
+      },
+      {
+        "word": "missing_otp",
+        "frequency": 1,
+        "ticket_id": "215431000156391013"
+      },
+      {
+        "word": "notification_improvement",
+        "frequency": 1,
+        "ticket_id": "215431000156391013"
+      },
+      {
+        "word": "booking_not_done",
+        "frequency": 2,
+        "ticket_id": "215431000157879001"
+      },
+      {
+        "word": "transaction_monitoring",
+        "frequency": 1,
+        "ticket_id": "215431000157879001"
+      },
+      {
+        "word": "booking_details_not_received",
+        "frequency": 2,
+        "ticket_id": "215431000154446039"
+      },
+      {
+        "word": "booking_details_delivery",
+        "frequency": 2,
+        "ticket_id": "215431000154446039"
+      },
+      {
+        "word": "booking_visibility",
+        "frequency": 5,
+        "ticket_id": "215431000155681013"
+      },
+      {
+        "word": "cancellation_handling",
+        "frequency": 1,
+        "ticket_id": "215431000154903747"
+      },
+      {
+        "word": "cancellation_policy_clarity",
+        "frequency": 1,
+        "ticket_id": "215431000154903747"
+      },
+      {
+        "word": "booking_not_found",
+        "frequency": 3,
+        "ticket_id": "215431000156028476"
+      },
+      {
+        "word": "booking_retrieval",
+        "frequency": 1,
+        "ticket_id": "215431000156028476"
+      },
+      {
+        "word": "payment_processing",
+        "frequency": 2,
+        "ticket_id": "215431000153903174"
+      },
+      {
+        "word": "booking_inconsistency",
+        "frequency": 2,
+        "ticket_id": "215431000152306439"
+      },
+      {
+        "word": "booking_consistency",
+        "frequency": 1,
+        "ticket_id": "215431000152306439"
+      },
+      {
+        "word": "offer_clarity",
+        "frequency": 1,
+        "ticket_id": "215431000152306439"
+      },
+      {
+        "word": "better_payment_integration",
+        "frequency": 1,
+        "ticket_id": "215431000152875379"
+      },
+      {
+        "word": "unable_to_apply_coupon",
+        "frequency": 1,
+        "ticket_id": "215431000154897194"
+      },
+      {
+        "word": "Better_coupon_integration",
+        "frequency": 1,
+        "ticket_id": "215431000154897194"
+      },
+      {
+        "word": "Clearer_coupon_options",
+        "frequency": 1,
+        "ticket_id": "215431000154897194"
+      },
+      {
+        "word": "Better_credit_distribution",
+        "frequency": 1,
+        "ticket_id": "215431000159937132"
+      },
+      {
+        "word": "Credit_notification",
+        "frequency": 1,
+        "ticket_id": "215431000159937132"
+      },
+      {
+        "word": "unable_to_find_voucher",
+        "frequency": 1,
+        "ticket_id": "215431000158421476"
+      },
+      {
+        "word": "Improved_voucher_visibility",
+        "frequency": 1,
+        "ticket_id": "215431000158421476"
+      },
+      {
+        "word": "Voucher_accessibility_enhancement",
+        "frequency": 1,
+        "ticket_id": "215431000158421476"
+      },
+      {
+        "word": "voucher_code_not_available",
+        "frequency": 1,
+        "ticket_id": "215431000156449001"
+      },
+      {
+        "word": "Voucher_issuance",
+        "frequency": 1,
+        "ticket_id": "215431000156449001"
+      },
+      {
+        "word": "Voucher_availability_alert",
+        "frequency": 1,
+        "ticket_id": "215431000156449001"
+      },
+      {
+        "word": "booking_refusal",
+        "frequency": 1,
+        "ticket_id": "215431000159698094"
+      },
+      {
+        "word": "Improved_listing_validation",
+        "frequency": 1,
+        "ticket_id": "215431000159698094"
+      },
+      {
+        "word": "Booking_verification_process",
+        "frequency": 1,
+        "ticket_id": "215431000159698094"
+      },
+      {
+        "word": "discount_not_applied",
+        "frequency": 2,
+        "ticket_id": "215431000160682234"
+      },
+      {
+        "word": "Discount_application",
+        "frequency": 1,
+        "ticket_id": "215431000160682234"
+      },
+      {
+        "word": "Discount_clarity",
+        "frequency": 1,
+        "ticket_id": "215431000160682234"
+      },
+      {
+        "word": "service_unavailable",
+        "frequency": 1,
+        "ticket_id": "215431000161566651"
+      },
+      {
+        "word": "Service_status_notification",
+        "frequency": 1,
+        "ticket_id": "215431000161566651"
+      },
+      {
+        "word": "Alternative_options_display",
+        "frequency": 1,
+        "ticket_id": "215431000161566651"
+      },
+      {
+        "word": "booking_messup",
+        "frequency": 1,
+        "ticket_id": "215431000154647077"
+      },
+      {
+        "word": "Booking_error_resolution",
+        "frequency": 1,
+        "ticket_id": "215431000154647077"
+      },
+      {
+        "word": "Credit_application_confirmation",
+        "frequency": 1,
+        "ticket_id": "215431000154647077"
+      },
+      {
+        "word": "Rescheduling_process",
+        "frequency": 1,
+        "ticket_id": "215431000154802015"
+      },
+      {
+        "word": "unable_to_book",
+        "frequency": 8,
+        "ticket_id": "215431000154087045"
+      },
+      {
+        "word": "better_explanation_of_credits",
+        "frequency": 1,
+        "ticket_id": "215431000153452001"
+      },
+      {
+        "word": "better_wallet_interface",
+        "frequency": 3,
+        "ticket_id": "215431000160975816"
+      },
+      {
+        "word": "wallet_not_working",
+        "frequency": 2,
+        "ticket_id": "215431000160946435"
+      },
+      {
+        "word": "better_wallet_management",
+        "frequency": 4,
+        "ticket_id": "215431000160946435"
+      },
+      {
+        "word": "unable_to_make_booking",
+        "frequency": 2,
+        "ticket_id": "215431000160966522"
+      },
+      {
+        "word": "payment_integration_fix",
+        "frequency": 1,
+        "ticket_id": "215431000160966522"
+      },
+      {
+        "word": "app_not_working",
+        "frequency": 1,
+        "ticket_id": "215431000159840309"
+      },
+      {
+        "word": "app_performance_improvement",
+        "frequency": 1,
+        "ticket_id": "215431000159840309"
+      },
+      {
+        "word": "booking_issue_resolution",
+        "frequency": 3,
+        "ticket_id": "215431000151425138"
+      },
+      {
+        "word": "wallet_issue",
+        "frequency": 5,
+        "ticket_id": "215431000160989985"
+      },
+      {
+        "word": "payment_system",
+        "frequency": 4,
+        "ticket_id": "215431000160989985"
+      },
+      {
+        "word": "better_error_modal",
+        "frequency": 9,
+        "ticket_id": "215431000160989985"
+      },
+      {
+        "word": "booking_issue",
+        "frequency": 3,
+        "ticket_id": "215431000157973013"
+      },
+      {
+        "word": "booking_system",
+        "frequency": 2,
+        "ticket_id": "215431000157973013"
+      },
+      {
+        "word": "coupon_code_issue",
+        "frequency": 2,
+        "ticket_id": "215431000159221391"
+      },
+      {
+        "word": "coupon_system",
+        "frequency": 1,
+        "ticket_id": "215431000159221391"
+      },
+      {
+        "word": "app_issue",
+        "frequency": 1,
+        "ticket_id": "215431000151900665"
+      },
+      {
+        "word": "app_bugs_fix",
+        "frequency": 1,
+        "ticket_id": "215431000151900665"
+      },
+      {
+        "word": "booking_time_issue",
+        "frequency": 1,
+        "ticket_id": "215431000160328029"
+      },
+      {
+        "word": "booking_time_restriction",
+        "frequency": 1,
+        "ticket_id": "215431000160328029"
+      },
+      {
+        "word": "booking_error",
+        "frequency": 3,
+        "ticket_id": "215431000160922159"
+      },
+      {
+        "word": "wallet_error",
+        "frequency": 2,
+        "ticket_id": "215431000161032760"
+      },
+      {
+        "word": "better_wallet_flow",
+        "frequency": 1,
+        "ticket_id": "215431000161032760"
+      },
+      {
+        "word": "booking_failed",
+        "frequency": 1,
+        "ticket_id": "215431000160715083"
+      },
+      {
+        "word": "better_communication",
+        "frequency": 2,
+        "ticket_id": "215431000153051264"
+      },
+      {
+        "word": "promo_code_not_applying",
+        "frequency": 1,
+        "ticket_id": "215431000155038160"
+      },
+      {
+        "word": "better_promo_handling",
+        "frequency": 1,
+        "ticket_id": "215431000155038160"
+      },
+      {
+        "word": "unable_to_book_for_guests",
+        "frequency": 1,
+        "ticket_id": "215431000152870001"
+      },
+      {
+        "word": "booking_not_processed",
+        "frequency": 2,
+        "ticket_id": "215431000155023331"
+      },
+      {
+        "word": "improved_booking_interface",
+        "frequency": 1,
+        "ticket_id": "215431000154436037"
+      },
+      {
+        "word": "better_sync",
+        "frequency": 1,
+        "ticket_id": "215431000152627001"
+      },
+      {
+        "word": "improved_error_messages",
+        "frequency": 1,
+        "ticket_id": "215431000153226148"
+      },
+      {
+        "word": "enhance_summary_sync",
+        "frequency": 1,
+        "ticket_id": "215431000153464057"
+      },
+      {
+        "word": "better_error_monitoring",
+        "frequency": 1,
+        "ticket_id": "215431000151813182"
+      },
+      {
+        "word": "payment_processing_issue",
+        "frequency": 1,
+        "ticket_id": "215431000152287049"
+      },
+      {
+        "word": "clear_payment_error_information",
+        "frequency": 1,
+        "ticket_id": "215431000152287049"
+      },
+      {
+        "word": " Enumerator",
+        "frequency": 30,
+        "ticket_id": "215431000159095021"
+      },
+      {
+        "word": " Small Text",
+        "frequency": 60,
+        "ticket_id": "215431000159095021"
+      },
+      {
+        "word": "update_space_information",
+        "frequency": 1,
+        "ticket_id": "215431000158778941"
+      },
+      {
+        "word": "better_booking_confirmation",
+        "frequency": 5,
+        "ticket_id": "215431000157765315"
+      },
+      {
+        "word": "improve_location_selection",
+        "frequency": 2,
+        "ticket_id": "215431000157765315"
+      },
+      {
+        "word": "information_on_closures",
+        "frequency": 1,
+        "ticket_id": "215431000161079830"
+      },
+      {
+        "word": "duplicate_booking_prevention",
+        "frequency": 1,
+        "ticket_id": "215431000155824122"
+      },
+      {
+        "word": "better_slot_availability_display",
+        "frequency": 1,
+        "ticket_id": "215431000155824122"
+      },
+      {
+        "word": "flexible_booking_hours",
+        "frequency": 1,
+        "ticket_id": "215431000158016001"
+      },
+      {
+        "word": "better_location_display",
+        "frequency": 1,
+        "ticket_id": "215431000160318869"
+      },
+      {
+        "word": "payment_missing",
+        "frequency": 1,
+        "ticket_id": "215431000153356031"
+      },
+      {
+        "word": "amount_deducted_no_booking",
+        "frequency": 1,
+        "ticket_id": "215431000159898272"
+      },
+      {
+        "word": "Improve location selection clarity",
+        "frequency": 1,
+        "ticket_id": "215431000156017226"
+      },
+      {
+        "word": "unable_to_pay",
+        "frequency": 3,
+        "ticket_id": "215431000161016160"
+      },
+      {
+        "word": "Better error handling for wallet payments",
+        "frequency": 1,
+        "ticket_id": "215431000161016160"
+      },
+      {
+        "word": "no_wifi_access",
+        "frequency": 1,
+        "ticket_id": "215431000159650371"
+      },
+      {
+        "word": "booking_display_error",
+        "frequency": 1,
+        "ticket_id": "215431000155069504"
+      },
+      {
+        "word": "unable_to_cancel",
+        "frequency": 6,
+        "ticket_id": "215431000156515355"
+      },
+      {
+        "word": "incorrect_booking_date",
+        "frequency": 3,
+        "ticket_id": "215431000161343001"
+      },
+      {
+        "word": "date_handling",
+        "frequency": 1,
+        "ticket_id": "215431000161343001"
+      },
+      {
+        "word": "better_date_selection_ui",
+        "frequency": 2,
+        "ticket_id": "215431000161343001"
+      },
+      {
+        "word": "better_time_selection_ui",
+        "frequency": 1,
+        "ticket_id": "215431000155107676"
+      },
+      {
+        "word": "incorrect_booking_confirmation",
+        "frequency": 1,
+        "ticket_id": "215431000158133001"
+      },
+      {
+        "word": "booking_policy_conflict",
+        "frequency": 1,
+        "ticket_id": "215431000161862224"
+      },
+      {
+        "word": "better_policy_communication",
+        "frequency": 1,
+        "ticket_id": "215431000161862224"
+      },
+      {
+        "word": "better_information_visibility",
+        "frequency": 1,
+        "ticket_id": "215431000161862224"
+      },
+      {
+        "word": "better_coupon_management",
+        "frequency": 1,
+        "ticket_id": "215431000158638347"
+      },
+      {
+        "word": "unapproved_booking",
+        "frequency": 1,
+        "ticket_id": "215431000159579001"
+      },
+      {
+        "word": "better_verification_process",
+        "frequency": 1,
+        "ticket_id": "215431000159579001"
+      },
+      {
+        "word": "improved_listing_validation",
+        "frequency": 1,
+        "ticket_id": "215431000159579001"
+      },
+      {
+        "word": "multiple_issues",
+        "frequency": 1,
+        "ticket_id": "215431000156933348"
+      },
+      {
+        "word": "better_internet_support",
+        "frequency": 1,
+        "ticket_id": "215431000156933348"
+      },
+      {
+        "word": "improved_amenity_information",
+        "frequency": 1,
+        "ticket_id": "215431000156933348"
+      },
+      {
+        "word": "improved_support_information",
+        "frequency": 1,
+        "ticket_id": "215431000159414237"
+      },
+      {
+        "word": "enhanced_booking_management",
+        "frequency": 1,
+        "ticket_id": "215431000159073148"
+      },
+      {
+        "word": "better_refund_policy",
+        "frequency": 2,
+        "ticket_id": "215431000157730001"
+      },
+      {
+        "word": "enhanced_cancellation_process",
+        "frequency": 1,
+        "ticket_id": "215431000160293242"
+      },
+      {
+        "word": "improved_quality_control",
+        "frequency": 1,
+        "ticket_id": "215431000157339120"
+      },
+      {
+        "word": "Improve_user_support_accessibility",
+        "frequency": 1,
+        "ticket_id": "215431000155443172"
+      },
+      {
+        "word": "Unable_to_contact_support",
+        "frequency": 1,
+        "ticket_id": "215431000156241001"
+      },
+      {
+        "word": "Enhance_contact_methods",
+        "frequency": 1,
+        "ticket_id": "215431000156241001"
+      },
+      {
+        "word": "Improve_refund_system",
+        "frequency": 1,
+        "ticket_id": "215431000154468823"
+      },
+      {
+        "word": "better user interface for cancellation",
+        "frequency": 1,
+        "ticket_id": "215431000161538001"
+      },
+      {
+        "word": "improved booking cancellation feature",
+        "frequency": 1,
+        "ticket_id": "215431000161538001"
+      },
+      {
+        "word": "unable_to_access_booking",
+        "frequency": 1,
+        "ticket_id": "215431000159650825"
+      },
+      {
+        "word": "real-time space status monitoring",
+        "frequency": 1,
+        "ticket_id": "215431000159650825"
+      },
+      {
+        "word": "better space availability updates",
+        "frequency": 1,
+        "ticket_id": "215431000159650825"
+      },
+      {
+        "word": "improved credit management",
+        "frequency": 1,
+        "ticket_id": "215431000161907001"
+      },
+      {
+        "word": "clearer credit use policies",
+        "frequency": 1,
+        "ticket_id": "215431000161907001"
+      },
+      {
+        "word": "booking_date_correction_tool",
+        "frequency": 1,
+        "ticket_id": "215431000156510751"
+      },
+      {
+        "word": "clearer_booking_confirmation",
+        "frequency": 1,
+        "ticket_id": "215431000161066174"
+      },
+      {
+        "word": "contact_information_accessibility",
+        "frequency": 1,
+        "ticket_id": "215431000156387007"
+      },
+      {
+        "word": "cancellation_process_flexibility",
+        "frequency": 1,
+        "ticket_id": "215431000160922656"
+      },
+      {
+        "word": "booking_modification_tool",
+        "frequency": 1,
+        "ticket_id": "215431000156016052"
+      },
+      {
+        "word": "clear_reception_guidelines",
+        "frequency": 1,
+        "ticket_id": "215431000158677323"
+      },
+      {
+        "word": "traffic_alerts_integration",
+        "frequency": 1,
+        "ticket_id": "215431000161573013"
+      },
+      {
+        "word": "flexible_timeslot_feature",
+        "frequency": 1,
+        "ticket_id": "215431000161573013"
+      },
+      {
+        "word": "otp_not_working",
+        "frequency": 1,
+        "ticket_id": "215431000157924706"
+      },
+      {
+        "word": "otp_functionality_fix",
+        "frequency": 1,
+        "ticket_id": "215431000157924706"
+      },
+      {
+        "word": "payment_screen_failure",
+        "frequency": 1,
+        "ticket_id": "215431000160310054"
+      },
+      {
+        "word": "better_cancellation_flow",
+        "frequency": 5,
+        "ticket_id": "215431000158819721"
+      },
+      {
+        "word": "unable_to_cancel_booking_on_app",
+        "frequency": 1,
+        "ticket_id": "215431000161862013"
+      },
+      {
+        "word": "better_modification_flow",
+        "frequency": 1,
+        "ticket_id": "215431000158894021"
+      },
+      {
+        "word": "refund_issue",
+        "frequency": 13,
+        "ticket_id": "215431000158498730"
+      },
+      {
+        "word": "better refund processing",
+        "frequency": 2,
+        "ticket_id": "215431000158498730"
+      },
+      {
+        "word": "clearer space selection interface",
+        "frequency": 1,
+        "ticket_id": "215431000158717748"
+      },
+      {
+        "word": "otp_issue",
+        "frequency": 1,
+        "ticket_id": "215431000155303333"
+      },
+      {
+        "word": "better OTP validation",
+        "frequency": 1,
+        "ticket_id": "215431000155303333"
+      },
+      {
+        "word": "wrong_booking",
+        "frequency": 1,
+        "ticket_id": "215431000160644244"
+      },
+      {
+        "word": "better_booking_error_handling",
+        "frequency": 1,
+        "ticket_id": "215431000160644244"
+      },
+      {
+        "word": "improved_booking_process",
+        "frequency": 1,
+        "ticket_id": "215431000160644244"
+      },
+      {
+        "word": "better_date_selection_error_handling",
+        "frequency": 1,
+        "ticket_id": "215431000159232681"
+      },
+      {
+        "word": "improved_date_picker_design",
+        "frequency": 1,
+        "ticket_id": "215431000159232681"
+      },
+      {
+        "word": "discount_code_issue",
+        "frequency": 1,
+        "ticket_id": "215431000158677126"
+      },
+      {
+        "word": "better_discount_code_handling",
+        "frequency": 1,
+        "ticket_id": "215431000158677126"
+      },
+      {
+        "word": "improved_discount_code_ui",
+        "frequency": 1,
+        "ticket_id": "215431000158677126"
+      },
+      {
+        "word": "unable_to_reschedule",
+        "frequency": 3,
+        "ticket_id": "215431000152822013"
+      },
+      {
+        "word": "better_rescheduling_system",
+        "frequency": 1,
+        "ticket_id": "215431000152822013"
+      },
+      {
+        "word": "unable_to_get_invoice",
+        "frequency": 1,
+        "ticket_id": "215431000160274275"
+      },
+      {
+        "word": "better_invoice_system",
+        "frequency": 1,
+        "ticket_id": "215431000160274275"
+      },
+      {
+        "word": "better_confirmation_modal",
+        "frequency": 1,
+        "ticket_id": "215431000156788001"
+      },
+      {
+        "word": "entry_card_not_working",
+        "frequency": 1,
+        "ticket_id": "215431000160682721"
+      },
+      {
+        "word": "card_issue_monitoring",
+        "frequency": 1,
+        "ticket_id": "215431000160682721"
+      },
+      {
+        "word": "duplicate_booking_due_to_email_delay",
+        "frequency": 1,
+        "ticket_id": "215431000161016492"
+      },
+      {
+        "word": "faster_email_notification",
+        "frequency": 1,
+        "ticket_id": "215431000161016492"
+      },
+      {
+        "word": "better_confirmation_feedback",
+        "frequency": 1,
+        "ticket_id": "215431000161016492"
+      },
+      {
+        "word": "better_cancellation_process",
+        "frequency": 1,
+        "ticket_id": "215431000161356620"
+      },
+      {
+        "word": "incorrect_booking",
+        "frequency": 1,
+        "ticket_id": "215431000154694095"
+      },
+      {
+        "word": "incorrect_email",
+        "frequency": 1,
+        "ticket_id": "215431000156298063"
+      },
+      {
+        "word": "better_date_change_option",
+        "frequency": 1,
+        "ticket_id": "215431000161856013"
+      },
+      {
+        "word": "better_rescheduling_option",
+        "frequency": 2,
+        "ticket_id": "215431000154897007"
+      },
+      {
+        "word": "better_coupon_redemption_process",
+        "frequency": 1,
+        "ticket_id": "215431000154827226"
+      },
+      {
+        "word": "better_rescheduling_process",
+        "frequency": 1,
+        "ticket_id": "215431000154896323"
+      },
+      {
+        "word": "better_location_information",
+        "frequency": 1,
+        "ticket_id": "215431000158445357"
+      },
+      {
+        "word": "better_booking_edit_option",
+        "frequency": 1,
+        "ticket_id": "215431000156813013"
+      },
+      {
+        "word": "better_invoice_access",
+        "frequency": 2,
+        "ticket_id": "215431000153231138"
+      },
+      {
+        "word": "better_coupon_handling",
+        "frequency": 1,
+        "ticket_id": "215431000159250623"
+      },
+      {
+        "word": "better_location_selection",
+        "frequency": 1,
+        "ticket_id": "215431000158670136"
+      },
+      {
+        "word": "no_confirmation_email",
+        "frequency": 1,
+        "ticket_id": "215431000152501001"
+      },
+      {
+        "word": "better_email_handling",
+        "frequency": 1,
+        "ticket_id": "215431000152501001"
+      },
+      {
+        "word": "no_credits",
+        "frequency": 1,
+        "ticket_id": "215431000157720621"
+      },
+      {
+        "word": "better_credit_management",
+        "frequency": 13,
+        "ticket_id": "215431000157720621"
+      },
+      {
+        "word": "unclear_multiple_bookings",
+        "frequency": 1,
+        "ticket_id": "215431000161813001"
+      },
+      {
+        "word": "better_booking_clarity",
+        "frequency": 1,
+        "ticket_id": "215431000161813001"
+      },
+      {
+        "word": "better_date_selection",
+        "frequency": 1,
+        "ticket_id": "215431000154638979"
+      },
+      {
+        "word": "feature_for_rescheduling",
+        "frequency": 1,
+        "ticket_id": "215431000154431963"
+      },
+      {
+        "word": "wrong_location_confirmation",
+        "frequency": 1,
+        "ticket_id": "215431000160165158"
+      },
+      {
+        "word": "booking_location_verification",
+        "frequency": 1,
+        "ticket_id": "215431000160165158"
+      },
+      {
+        "word": "better_date_reset_logic",
+        "frequency": 1,
+        "ticket_id": "215431000156891049"
+      },
+      {
+        "word": "unable_to_connect_support",
+        "frequency": 2,
+        "ticket_id": "215431000154425001"
+      },
+      {
+        "word": "better_support_contact_flow",
+        "frequency": 2,
+        "ticket_id": "215431000154425001"
+      },
+      {
+        "word": "network_monitoring",
+        "frequency": 1,
+        "ticket_id": "215431000156028001"
+      },
+      {
+        "word": "real_time_occupancy_updates",
+        "frequency": 1,
+        "ticket_id": "215431000156028001"
+      },
+      {
+        "word": "qr_code_not_available",
+        "frequency": 1,
+        "ticket_id": "215431000155981415"
+      },
+      {
+        "word": "qr_code_notification",
+        "frequency": 1,
+        "ticket_id": "215431000155981415"
+      },
+      {
+        "word": "better_access_instructions",
+        "frequency": 1,
+        "ticket_id": "215431000155981415"
+      },
+      {
+        "word": "clearer_location_change",
+        "frequency": 1,
+        "ticket_id": "215431000154450475"
+      },
+      {
+        "word": "guest_management_feature",
+        "frequency": 1,
+        "ticket_id": "215431000161601388"
+      },
+      {
+        "word": "intuitive_guest_interface",
+        "frequency": 1,
+        "ticket_id": "215431000161601388"
+      },
+      {
+        "word": "unable_to_find_qr_code",
+        "frequency": 1,
+        "ticket_id": "215431000159625794"
+      },
+      {
+        "word": "better_qr_code_display",
+        "frequency": 1,
+        "ticket_id": "215431000159625794"
+      },
+      {
+        "word": "better_booking_date_confirmation",
+        "frequency": 2,
+        "ticket_id": "215431000160881594"
+      },
+      {
+        "word": "better_refund_processing",
+        "frequency": 1,
+        "ticket_id": "215431000157941317"
+      },
+      {
+        "word": "better_communication_of_policies",
+        "frequency": 1,
+        "ticket_id": "215431000160002001"
+      },
+      {
+        "word": "Better date management",
+        "frequency": 1,
+        "ticket_id": "215431000155333842"
+      },
+      {
+        "word": "Clearer date selection",
+        "frequency": 1,
+        "ticket_id": "215431000155282184"
+      },
+      {
+        "word": "unable_to_access_space",
+        "frequency": 1,
+        "ticket_id": "215431000159981700"
+      },
+      {
+        "word": "Better space access information",
+        "frequency": 1,
+        "ticket_id": "215431000159981700"
+      },
+      {
+        "word": "refund_delay",
+        "frequency": 4,
+        "ticket_id": "215431000153441001"
+      },
+      {
+        "word": "Better refund tracking",
+        "frequency": 3,
+        "ticket_id": "215431000153441001"
+      },
+      {
+        "word": "clearer_refund_process",
+        "frequency": 8,
+        "ticket_id": "215431000153357013"
+      },
+      {
+        "word": "partial_refund_issue",
+        "frequency": 1,
+        "ticket_id": "215431000154230033"
+      },
+      {
+        "word": "system_not_working  ",
+        "frequency": 1,
+        "ticket_id": "215431000157500025"
+      },
+      {
+        "word": "system_monitoring  ",
+        "frequency": 1,
+        "ticket_id": "215431000157500025"
+      },
+      {
+        "word": "better_seating_allocation  ",
+        "frequency": 1,
+        "ticket_id": "215431000157500025"
+      },
+      {
+        "word": "wifi_issue  ",
+        "frequency": 1,
+        "ticket_id": "215431000158345401"
+      },
+      {
+        "word": "staff_training_on_tech  ",
+        "frequency": 1,
+        "ticket_id": "215431000158345401"
+      },
+      {
+        "word": "clearer_cancellation_process  ",
+        "frequency": 1,
+        "ticket_id": "215431000153140037"
+      },
+      {
+        "word": "clearer_rescheduling_options  ",
+        "frequency": 2,
+        "ticket_id": "215431000158154001"
+      },
+      {
+        "word": "clearer_booking_process  ",
+        "frequency": 1,
+        "ticket_id": "215431000160330158"
+      },
+      {
+        "word": "Better_Booking_Flow",
+        "frequency": 2,
+        "ticket_id": "215431000154001013"
+      },
+      {
+        "word": "unable_to_view_booking  ",
+        "frequency": 1,
+        "ticket_id": "215431000154214701"
+      },
+      {
+        "word": "error_handling  ",
+        "frequency": 6,
+        "ticket_id": "215431000154214701"
+      },
+      {
+        "word": "better_booking_flow  ",
+        "frequency": 7,
+        "ticket_id": "215431000154214701"
+      },
+      {
+        "word": "  ",
+        "frequency": 18,
+        "ticket_id": "215431000155056482"
+      },
+      {
+        "word": "already_booked_error  ",
+        "frequency": 1,
+        "ticket_id": "215431000151813788"
+      },
+      {
+        "word": "unable_to_view_transactions  ",
+        "frequency": 1,
+        "ticket_id": "215431000154446403"
+      },
+      {
+        "word": "support_button_disabled",
+        "frequency": 1,
+        "ticket_id": "215431000151822711"
+      },
+      {
+        "word": "feature_enable_support_button",
+        "frequency": 1,
+        "ticket_id": "215431000151822711"
+      },
+      {
+        "word": "better_rescheduling_flow",
+        "frequency": 1,
+        "ticket_id": "215431000151822711"
+      },
+      {
+        "word": "better_booking_selection",
+        "frequency": 1,
+        "ticket_id": "215431000154201488"
+      },
+      {
+        "word": "booking_cancelled",
+        "frequency": 1,
+        "ticket_id": "215431000152275715"
+      },
+      {
+        "word": "booking_monitoring",
+        "frequency": 2,
+        "ticket_id": "215431000152275715"
+      },
+      {
+        "word": "booking_notification",
+        "frequency": 1,
+        "ticket_id": "215431000152275715"
+      },
+      {
+        "word": "no_electricity",
+        "frequency": 1,
+        "ticket_id": "215431000161467001"
+      },
+      {
+        "word": "facility_status_monitoring",
+        "frequency": 2,
+        "ticket_id": "215431000161467001"
+      },
+      {
+        "word": "facility_status_notification",
+        "frequency": 2,
+        "ticket_id": "215431000161467001"
+      },
+      {
+        "word": "booking_data_accuracy",
+        "frequency": 1,
+        "ticket_id": "215431000159073617"
+      },
+      {
+        "word": "booking_search_functionality",
+        "frequency": 1,
+        "ticket_id": "215431000159073617"
+      },
+      {
+        "word": "center_closed",
+        "frequency": 1,
+        "ticket_id": "215431000160652904"
+      },
+      {
+        "word": "better_ticket_management",
+        "frequency": 1,
+        "ticket_id": "215431000160774329"
+      },
+      {
+        "word": "clearer_refund_policy",
+        "frequency": 1,
+        "ticket_id": "215431000160774329"
+      },
+      {
+        "word": "better_invoice_support",
+        "frequency": 1,
+        "ticket_id": "215431000159781381"
+      },
+      {
+        "word": "check_availability_update",
+        "frequency": 1,
+        "ticket_id": "215431000158347634"
+      },
+      {
+        "word": "booking_confirmation",
+        "frequency": 1,
+        "ticket_id": "215431000161004782"
+      },
+      {
+        "word": "better_booking_sync",
+        "frequency": 2,
+        "ticket_id": "215431000161004782"
+      },
+      {
+        "word": "better_confirmation_notification",
+        "frequency": 1,
+        "ticket_id": "215431000161004782"
+      },
+      {
+        "word": "internet_issue",
+        "frequency": 1,
+        "ticket_id": "215431000160665710"
+      },
+      {
+        "word": "improved_wifi_support",
+        "frequency": 1,
+        "ticket_id": "215431000160665710"
+      },
+      {
+        "word": "unable_to_get_reservation",
+        "frequency": 1,
+        "ticket_id": "215431000159232496"
+      },
+      {
+        "word": "better_reservation_handling",
+        "frequency": 1,
+        "ticket_id": "215431000159232496"
+      },
+      {
+        "word": "no_intimation_of_booking",
+        "frequency": 1,
+        "ticket_id": "215431000155685144"
+      },
+      {
+        "word": "better_notification_system",
+        "frequency": 1,
+        "ticket_id": "215431000155685144"
+      },
+      {
+        "word": "better_refund_process",
+        "frequency": 2,
+        "ticket_id": "215431000155250001"
+      },
+      {
+        "word": "clearer_listing",
+        "frequency": 1,
+        "ticket_id": "215431000153508205"
+      },
+      {
+        "word": "improve_sync_with_partner_system",
+        "frequency": 1,
+        "ticket_id": "215431000159264218"
+      },
+      {
+        "word": "better_booking_system",
+        "frequency": 1,
+        "ticket_id": "215431000159264218"
+      },
+      {
+        "word": "space_open_status_accurate",
+        "frequency": 2,
+        "ticket_id": "215431000155277186"
+      },
+      {
+        "word": "better_opening_times_info",
+        "frequency": 1,
+        "ticket_id": "215431000157000757"
+      },
+      {
+        "word": "entry_policy_communication",
+        "frequency": 1,
+        "ticket_id": "215431000158135001"
+      },
+      {
+        "word": "improve_on_site_communication",
+        "frequency": 1,
+        "ticket_id": "215431000157069402"
+      },
+      {
+        "word": "entry_denied",
+        "frequency": 3,
+        "ticket_id": "215431000159729546"
+      },
+      {
+        "word": "monitoring",
+        "frequency": 14,
+        "ticket_id": "215431000159729546"
+      },
+      {
+        "word": "access_denied",
+        "frequency": 1,
+        "ticket_id": "215431000156938049"
+      },
+      {
+        "word": "credits_not_showing",
+        "frequency": 4,
+        "ticket_id": "215431000161063606"
+      },
+      {
+        "word": "unable_to_view_venue",
+        "frequency": 1,
+        "ticket_id": "215431000156871699"
+      },
+      {
+        "word": "better_search_functionality",
+        "frequency": 1,
+        "ticket_id": "215431000156871699"
+      },
+      {
+        "word": "clear_amenity_description",
+        "frequency": 1,
+        "ticket_id": "215431000151850007"
+      },
+      {
+        "word": "unable_to_reset_password",
+        "frequency": 1,
+        "ticket_id": "215431000158060001"
+      },
+      {
+        "word": "wrong_id_creation",
+        "frequency": 1,
+        "ticket_id": "215431000157725145"
+      },
+      {
+        "word": "credit_auto_deletion",
+        "frequency": 1,
+        "ticket_id": "215431000158344888"
+      },
+      {
+        "word": "better_credit_handling",
+        "frequency": 1,
+        "ticket_id": "215431000158344888"
+      },
+      {
+        "word": "better_location_provision",
+        "frequency": 1,
+        "ticket_id": "215431000154692351"
+      },
+      {
+        "word": "clearer_cancellation_process",
+        "frequency": 1,
+        "ticket_id": "215431000160208022"
+      },
+      {
+        "word": "payment",
+        "frequency": 2,
+        "ticket_id": "215431000160338001"
+      },
+      {
+        "word": "better_payment_processing",
+        "frequency": 4,
+        "ticket_id": "215431000160338001"
+      },
+      {
+        "word": "wallet_payment",
+        "frequency": 1,
+        "ticket_id": "215431000158717013"
+      },
+      {
+        "word": "credits",
+        "frequency": 1,
+        "ticket_id": "215431000156611407"
+      },
+      {
+        "word": "better_wallet_handling",
+        "frequency": 1,
+        "ticket_id": "215431000160938047"
+      },
+      {
+        "word": "wallet_balance_discrepancy",
+        "frequency": 1,
+        "ticket_id": "215431000157119005"
+      },
+      {
+        "word": "proper_balance_monitoring",
+        "frequency": 1,
+        "ticket_id": "215431000157119005"
+      },
+      {
+        "word": "subscription_balance_not_showing",
+        "frequency": 1,
+        "ticket_id": "215431000160226001"
+      },
+      {
+        "word": "subscription_display_issues_fix",
+        "frequency": 1,
+        "ticket_id": "215431000160226001"
+      },
+      {
+        "word": "better_booking_verification",
+        "frequency": 1,
+        "ticket_id": "215431000159624875"
+      },
+      {
+        "word": "credits_expired",
+        "frequency": 1,
+        "ticket_id": "215431000157479027"
+      },
+      {
+        "word": "credits_management_system",
+        "frequency": 1,
+        "ticket_id": "215431000157479027"
+      },
+      {
+        "word": "booking_sync_improvement",
+        "frequency": 1,
+        "ticket_id": "215431000155006597"
+      },
+      {
+        "word": "booking_display_issues_fix",
+        "frequency": 1,
+        "ticket_id": "215431000158072013"
+      },
+      {
+        "word": "unable_to_view_bookings",
+        "frequency": 1,
+        "ticket_id": "215431000151885426"
+      },
+      {
+        "word": "better_location_selector",
+        "frequency": 1,
+        "ticket_id": "215431000153761806"
+      },
+      {
+        "word": "improved_location_interface",
+        "frequency": 1,
+        "ticket_id": "215431000152898001"
+      },
+      {
+        "word": "clearer_refund_communication",
+        "frequency": 1,
+        "ticket_id": "215431000160945839"
+      },
+      {
+        "word": "refund_policy_clarity",
+        "frequency": 1,
+        "ticket_id": "215431000160945839"
+      },
+      {
+        "word": "clearer_tax_communication",
+        "frequency": 1,
+        "ticket_id": "215431000158303829"
+      },
+      {
+        "word": "tax_policy_clarity",
+        "frequency": 1,
+        "ticket_id": "215431000158303829"
+      },
+      {
+        "word": "clearer_editing_communication",
+        "frequency": 1,
+        "ticket_id": "215431000154797569"
+      },
+      {
+        "word": "improved_edit_booking_feature",
+        "frequency": 1,
+        "ticket_id": "215431000154797569"
+      },
+      {
+        "word": "clearer_extension_communication",
+        "frequency": 1,
+        "ticket_id": "215431000157745418"
+      },
+      {
+        "word": "improved_extension_process",
+        "frequency": 1,
+        "ticket_id": "215431000157745418"
+      },
+      {
+        "word": "clearer_discount_terms",
+        "frequency": 1,
+        "ticket_id": "215431000156465162"
+      },
+      {
+        "word": "credits_not_reflecting",
+        "frequency": 1,
+        "ticket_id": "215431000160878093"
+      },
+      {
+        "word": "unable_to_view_credits",
+        "frequency": 1,
+        "ticket_id": "215431000157273463"
+      },
+      {
+        "word": "better_system_monitoring",
+        "frequency": 2,
+        "ticket_id": "215431000157273463"
+      },
+      {
+        "word": "unable_to_view_subscription",
+        "frequency": 1,
+        "ticket_id": "215431000154938158"
+      },
+      {
+        "word": "booking_offer_issue",
+        "frequency": 1,
+        "ticket_id": "215431000156515196"
+      },
+      {
+        "word": "better_offer_handling",
+        "frequency": 1,
+        "ticket_id": "215431000156515196"
+      },
+      {
+        "word": "clearer_F&B_offer_guidance",
+        "frequency": 1,
+        "ticket_id": "215431000157294874"
+      },
+      {
+        "word": "improve_gift_pass_purchase_process",
+        "frequency": 1,
+        "ticket_id": "215431000156891222"
+      },
+      {
+        "word": "clearer_credit_expiry_information",
+        "frequency": 2,
+        "ticket_id": "215431000160781346"
+      },
+      {
+        "word": "incorrect_balance",
+        "frequency": 2,
+        "ticket_id": "215431000156685192"
+      },
+      {
+        "word": "account_balance_monitoring",
+        "frequency": 2,
+        "ticket_id": "215431000156685192"
+      },
+      {
+        "word": "payment_gateway_monitoring",
+        "frequency": 2,
+        "ticket_id": "215431000160975174"
+      },
+      {
+        "word": "credits_incorrect_balance",
+        "frequency": 1,
+        "ticket_id": "215431000161428027"
+      },
+      {
+        "word": "coupon_not_working",
+        "frequency": 1,
+        "ticket_id": "215431000152898363"
+      },
+      {
+        "word": "coupon_validation",
+        "frequency": 1,
+        "ticket_id": "215431000152898363"
+      },
+      {
+        "word": "cancellation_process_improvement",
+        "frequency": 1,
+        "ticket_id": "215431000154425174"
+      },
+      {
+        "word": "access_issue_with_pass",
+        "frequency": 1,
+        "ticket_id": "215431000159281289"
+      },
+      {
+        "word": "pass_reactivation_support",
+        "frequency": 1,
+        "ticket_id": "215431000159281289"
+      },
+      {
+        "word": "booking_incorrect_status",
+        "frequency": 1,
+        "ticket_id": "215431000151568115"
+      },
+      {
+        "word": "space_availability_check",
+        "frequency": 1,
+        "ticket_id": "215431000151568115"
+      },
+      {
+        "word": "credit_expiry",
+        "frequency": 1,
+        "ticket_id": "215431000158530166"
+      },
+      {
+        "word": "missing_credits",
+        "frequency": 1,
+        "ticket_id": "215431000151835798"
+      },
+      {
+        "word": "better_credit_monitoring",
+        "frequency": 7,
+        "ticket_id": "215431000151835798"
+      },
+      {
+        "word": "booking_availablity",
+        "frequency": 1,
+        "ticket_id": "215431000161332073"
+      },
+      {
+        "word": "improve_booking_options",
+        "frequency": 1,
+        "ticket_id": "215431000161332073"
+      },
+      {
+        "word": "not_receiving_credits",
+        "frequency": 5,
+        "ticket_id": "215431000157248470"
+      },
+      {
+        "word": "unable_to_choose_date_payment_method",
+        "frequency": 1,
+        "ticket_id": "215431000160825576"
+      },
+      {
+        "word": "better_date_payment_selection",
+        "frequency": 1,
+        "ticket_id": "215431000160825576"
+      },
+      {
+        "word": "improved_booking_flow",
+        "frequency": 1,
+        "ticket_id": "215431000160825576"
+      },
+      {
+        "word": "credit_monitoring_system",
+        "frequency": 1,
+        "ticket_id": "215431000151537001"
+      },
+      {
+        "word": "incorrect_credit_deduction",
+        "frequency": 1,
+        "ticket_id": "215431000161825456"
+      },
+      {
+        "word": "improved_credit_deduction_logic",
+        "frequency": 1,
+        "ticket_id": "215431000161825456"
+      },
+      {
+        "word": "enhance_invoice_clarity",
+        "frequency": 1,
+        "ticket_id": "215431000161825456"
+      },
+      {
+        "word": "credit_not_added",
+        "frequency": 1,
+        "ticket_id": "215431000160962514"
+      },
+      {
+        "word": "payment_processing_improvement",
+        "frequency": 1,
+        "ticket_id": "215431000160962514"
+      },
+      {
+        "word": "expired_credits",
+        "frequency": 1,
+        "ticket_id": "215431000157468079"
+      },
+      {
+        "word": "improved_credit_expiry_communication",
+        "frequency": 1,
+        "ticket_id": "215431000157468079"
+      },
+      {
+        "word": "payment_status_monitoring",
+        "frequency": 1,
+        "ticket_id": "215431000161006039"
+      },
+      {
+        "word": "better_transaction_tracking",
+        "frequency": 1,
+        "ticket_id": "215431000161006039"
+      },
+      {
+        "word": "improved_booking_confirmation",
+        "frequency": 2,
+        "ticket_id": "215431000159644101"
+      },
+      {
+        "word": "clear_referral_code_application",
+        "frequency": 1,
+        "ticket_id": "215431000160963013"
+      },
+      {
+        "word": "improved_sign_up_flow",
+        "frequency": 1,
+        "ticket_id": "215431000160963013"
+      },
+      {
+        "word": "improved_admin_invitation",
+        "frequency": 1,
+        "ticket_id": "215431000158277001"
+      },
+      {
+        "word": "clarified_admin_onboarding_process",
+        "frequency": 1,
+        "ticket_id": "215431000158277001"
+      },
+      {
+        "word": "overcharged",
+        "frequency": 1,
+        "ticket_id": "215431000161748001"
+      },
+      {
+        "word": "billing_discrepancy_monitoring",
+        "frequency": 1,
+        "ticket_id": "215431000161748001"
+      },
+      {
+        "word": "clearer_location_policy",
+        "frequency": 1,
+        "ticket_id": "215431000152669186"
+      },
+      {
+        "word": "potential_credit_extension_option",
+        "frequency": 1,
+        "ticket_id": "215431000159648303"
+      },
+      {
+        "word": "better_space_description",
+        "frequency": 1,
+        "ticket_id": "215431000152607851"
+      },
+      {
+        "word": "confirmation_prompt",
+        "frequency": 1,
+        "ticket_id": "215431000153339146"
+      },
+      {
+        "word": "better_balance_display",
+        "frequency": 1,
+        "ticket_id": "215431000154208228"
+      },
+      {
+        "word": "better_cancellation_info",
+        "frequency": 1,
+        "ticket_id": "215431000158959037"
+      },
+      {
+        "word": "lockout",
+        "frequency": 1,
+        "ticket_id": "215431000160597025"
+      },
+      {
+        "word": "better_access_control",
+        "frequency": 1,
+        "ticket_id": "215431000160597025"
+      },
+      {
+        "word": "unable_to_book_after_time  ",
+        "frequency": 1,
+        "ticket_id": "215431000160989363"
+      },
+      {
+        "word": "booking_not_showing  ",
+        "frequency": 1,
+        "ticket_id": "215431000159773865"
+      },
+      {
+        "word": "unable_to_change_location  ",
+        "frequency": 1,
+        "ticket_id": "215431000154861001"
+      },
+      {
+        "word": "better_location_change_flow  ",
+        "frequency": 1,
+        "ticket_id": "215431000154861001"
+      },
+      {
+        "word": "better_location_selection_flow  ",
+        "frequency": 1,
+        "ticket_id": "215431000154281716"
+      },
+      {
+        "word": "credits_expiration",
+        "frequency": 6,
+        "ticket_id": "215431000155675239"
+      },
+      {
+        "word": "clearer_credit_expiry_policy",
+        "frequency": 6,
+        "ticket_id": "215431000155675239"
+      },
+      {
+        "word": "account_issue",
+        "frequency": 1,
+        "ticket_id": "215431000155637172"
+      },
+      {
+        "word": "account_syncing",
+        "frequency": 1,
+        "ticket_id": "215431000155637172"
+      },
+      {
+        "word": "clearer_account_information",
+        "frequency": 1,
+        "ticket_id": "215431000155637172"
+      },
+      {
+        "word": "unable_to_apply_offer",
+        "frequency": 1,
+        "ticket_id": "215431000155038013"
+      },
+      {
+        "word": "unable_to_apply_discount",
+        "frequency": 1,
+        "ticket_id": "215431000154839273"
+      },
+      {
+        "word": "unable_to_book_for_teammates",
+        "frequency": 1,
+        "ticket_id": "215431000151902550"
+      },
+      {
+        "word": "feature_improvement",
+        "frequency": 1,
+        "ticket_id": "215431000151902550"
+      },
+      {
+        "word": "transparency_in_pricing",
+        "frequency": 1,
+        "ticket_id": "215431000155038331"
+      },
+      {
+        "word": "payment_not_reflected",
+        "frequency": 1,
+        "ticket_id": "215431000151577001"
+      },
+      {
+        "word": "payment_monitoring",
+        "frequency": 1,
+        "ticket_id": "215431000151577001"
+      },
+      {
+        "word": "missing_confirmation_email",
+        "frequency": 1,
+        "ticket_id": "215431000154223455"
+      },
+      {
+        "word": "email_notification",
+        "frequency": 1,
+        "ticket_id": "215431000154223455"
+      },
+      {
+        "word": "better_customer_support_access",
+        "frequency": 1,
+        "ticket_id": "215431000154933290"
+      },
+      {
+        "word": "payment_failed",
+        "frequency": 3,
+        "ticket_id": "215431000151814540"
+      },
+      {
+        "word": "better_payment_gateway",
+        "frequency": 3,
+        "ticket_id": "215431000151814540"
+      },
+      {
+        "word": "unresponsive_buttons",
+        "frequency": 1,
+        "ticket_id": "215431000152361001"
+      },
+      {
+        "word": "better_button_responsiveness",
+        "frequency": 1,
+        "ticket_id": "215431000152361001"
+      },
+      {
+        "word": "unable_to_view_booking_id",
+        "frequency": 1,
+        "ticket_id": "215431000155464319"
+      },
+      {
+        "word": "better_booking_display",
+        "frequency": 1,
+        "ticket_id": "215431000155464319"
+      },
+      {
+        "word": "account_sync",
+        "frequency": 1,
+        "ticket_id": "215431000153724242"
+      },
+      {
+        "word": "better_credit_display",
+        "frequency": 1,
+        "ticket_id": "215431000153724242"
+      },
+      {
+        "word": "refund_status",
+        "frequency": 1,
+        "ticket_id": "215431000155422948"
+      },
+      {
+        "word": "refund_tracking",
+        "frequency": 2,
+        "ticket_id": "215431000155422948"
+      },
+      {
+        "word": "refund_confirmation",
+        "frequency": 1,
+        "ticket_id": "215431000155422948"
+      },
+      {
+        "word": "booking_not_reflecting",
+        "frequency": 1,
+        "ticket_id": "215431000151814246"
+      },
+      {
+        "word": "booking_sync",
+        "frequency": 1,
+        "ticket_id": "215431000151814246"
+      },
+      {
+        "word": "incomplete_transaction_display",
+        "frequency": 1,
+        "ticket_id": "215431000156961001"
+      },
+      {
+        "word": "transaction_display_fix",
+        "frequency": 1,
+        "ticket_id": "215431000156961001"
+      },
+      {
+        "word": "transaction_listing_update",
+        "frequency": 1,
+        "ticket_id": "215431000156961001"
+      },
+      {
+        "word": "coupon_error",
+        "frequency": 1,
+        "ticket_id": "215431000153430174"
+      },
+      {
+        "word": "better_coupon_flow",
+        "frequency": 1,
+        "ticket_id": "215431000153430174"
+      },
+      {
+        "word": "referral_code_error",
+        "frequency": 1,
+        "ticket_id": "215431000154647401"
+      },
+      {
+        "word": "better_referral_code_integration",
+        "frequency": 1,
+        "ticket_id": "215431000154647401"
+      },
+      {
+        "word": "booking_system_improvement",
+        "frequency": 1,
+        "ticket_id": "215431000152682939"
+      },
+      {
+        "word": "wallet_system_improvement",
+        "frequency": 1,
+        "ticket_id": "215431000160966013"
+      },
+      {
+        "word": "better_wallet_feature",
+        "frequency": 1,
+        "ticket_id": "215431000160966013"
+      },
+      {
+        "word": "clear_credit_value_display",
+        "frequency": 1,
+        "ticket_id": "215431000156782132"
+      },
+      {
+        "word": "better_validity_display",
+        "frequency": 1,
+        "ticket_id": "215431000160806677"
+      },
+      {
+        "word": "better_credits_management",
+        "frequency": 1,
+        "ticket_id": "215431000156862169"
+      },
+      {
+        "word": "unable_to_view_invoice",
+        "frequency": 1,
+        "ticket_id": "215431000159616915"
+      },
+      {
+        "word": "invoice_view_feature",
+        "frequency": 1,
+        "ticket_id": "215431000159616915"
+      },
+      {
+        "word": "clearer_claim_process",
+        "frequency": 1,
+        "ticket_id": "215431000160359194"
+      },
+      {
+        "word": "unable_to_download_invoice  ",
+        "frequency": 1,
+        "ticket_id": "215431000160359566"
+      },
+      {
+        "word": "improve_invoice_accessibility  ",
+        "frequency": 1,
+        "ticket_id": "215431000160359566"
+      },
+      {
+        "word": "invoice_unavailable  ",
+        "frequency": 1,
+        "ticket_id": "215431000154810025"
+      },
+      {
+        "word": "improve_invoice_availability   ",
+        "frequency": 1,
+        "ticket_id": "215431000154810025"
+      },
+      {
+        "word": "double_payment_deduction",
+        "frequency": 1,
+        "ticket_id": "215431000154815474"
+      },
+      {
+        "word": "better_payment_flow",
+        "frequency": 3,
+        "ticket_id": "215431000160962933"
+      },
+      {
+        "word": "payment_deducted_no_booking",
+        "frequency": 2,
+        "ticket_id": "215431000157897001"
+      },
+      {
+        "word": "better_booking_management",
+        "frequency": 1,
+        "ticket_id": "215431000161874279"
+      },
+      {
+        "word": "payment_deducted_no_update",
+        "frequency": 1,
+        "ticket_id": "215431000159850025"
+      },
+      {
+        "word": "wallet_balance_booking_issue",
+        "frequency": 1,
+        "ticket_id": "215431000161016323"
+      },
+      {
+        "word": "wallet_balance_issue",
+        "frequency": 1,
+        "ticket_id": "215431000160938182"
+      },
+      {
+        "word": "credits_not_recharged",
+        "frequency": 1,
+        "ticket_id": "215431000161331124"
+      },
+      {
+        "word": "better_credits_flow",
+        "frequency": 3,
+        "ticket_id": "215431000161331124"
+      },
+      {
+        "word": "credits_not_added",
+        "frequency": 1,
+        "ticket_id": "215431000161018347"
+      },
+      {
+        "word": "cannot_see_credits",
+        "frequency": 1,
+        "ticket_id": "215431000161004613"
+      },
+      {
+        "word": "better_credits_visibility",
+        "frequency": 2,
+        "ticket_id": "215431000161004613"
+      },
+      {
+        "word": "cannot_see_credit",
+        "frequency": 1,
+        "ticket_id": "215431000161008444"
+      },
+      {
+        "word": "better_booking_visibility",
+        "frequency": 1,
+        "ticket_id": "215431000156948983"
+      },
+      {
+        "word": "wallet_not_updated",
+        "frequency": 2,
+        "ticket_id": "215431000160983430"
+      },
+      {
+        "word": "better_wallet_update",
+        "frequency": 3,
+        "ticket_id": "215431000160983430"
+      },
+      {
+        "word": "no_booking_id",
+        "frequency": 1,
+        "ticket_id": "215431000155425025"
+      },
+      {
+        "word": "better_transaction_process",
+        "frequency": 1,
+        "ticket_id": "215431000155425025"
+      },
+      {
+        "word": "amount_not_reflecting",
+        "frequency": 1,
+        "ticket_id": "215431000161032140"
+      },
+      {
+        "word": "amount_not_added",
+        "frequency": 1,
+        "ticket_id": "215431000160989194"
+      },
+      {
+        "word": "payment_not_processing",
+        "frequency": 1,
+        "ticket_id": "215431000160165504"
+      },
+      {
+        "word": "payment_gateway_error_handling",
+        "frequency": 1,
+        "ticket_id": "215431000160165504"
+      },
+      {
+        "word": "improved_payment_status_communication",
+        "frequency": 1,
+        "ticket_id": "215431000160165504"
+      },
+      {
+        "word": "payment_not_reflecting",
+        "frequency": 5,
+        "ticket_id": "215431000161048785"
+      },
+      {
+        "word": "wallet_sync_issue_resolution",
+        "frequency": 4,
+        "ticket_id": "215431000161048785"
+      },
+      {
+        "word": "better_wallet_balance_display",
+        "frequency": 4,
+        "ticket_id": "215431000161048785"
+      },
+      {
+        "word": "transaction_discrepancy_resolution",
+        "frequency": 1,
+        "ticket_id": "215431000160946872"
+      },
+      {
+        "word": "improved_wallet_update_notifications",
+        "frequency": 1,
+        "ticket_id": "215431000160946872"
+      },
+      {
+        "word": "booking_not_available",
+        "frequency": 2,
+        "ticket_id": "215431000160994025"
+      },
+      {
+        "word": "real_time_booking_update",
+        "frequency": 1,
+        "ticket_id": "215431000160994025"
+      },
+      {
+        "word": "booking_confirmation_improvement",
+        "frequency": 1,
+        "ticket_id": "215431000160994025"
+      },
+      {
+        "word": "booking_confirmation_issue",
+        "frequency": 1,
+        "ticket_id": "215431000161450708"
+      },
+      {
+        "word": "booking_flow_fix",
+        "frequency": 1,
+        "ticket_id": "215431000161450708"
+      },
+      {
+        "word": "booking_confirmation_and_refund_process",
+        "frequency": 1,
+        "ticket_id": "215431000161450708"
+      },
+      {
+        "word": "payment_to_booking_sync_issue",
+        "frequency": 1,
+        "ticket_id": "215431000157241174"
+      },
+      {
+        "word": "credit_issue_resolution",
+        "frequency": 1,
+        "ticket_id": "215431000154449357"
+      },
+      {
+        "word": "improved_credit_update_communication",
+        "frequency": 1,
+        "ticket_id": "215431000154449357"
+      },
+      {
+        "word": "better_wallet_updates",
+        "frequency": 1,
+        "ticket_id": "215431000152619230"
+      },
+      {
+        "word": "netbanking_error",
+        "frequency": 1,
+        "ticket_id": "215431000155483025"
+      },
+      {
+        "word": "payment_gateway_support",
+        "frequency": 1,
+        "ticket_id": "215431000155483025"
+      },
+      {
+        "word": "better_netbanking_process",
+        "frequency": 1,
+        "ticket_id": "215431000155483025"
+      },
+      {
+        "word": "improved_transaction_flow",
+        "frequency": 1,
+        "ticket_id": "215431000158931380"
+      },
+      {
+        "word": "improved_payment_gateway",
+        "frequency": 1,
+        "ticket_id": "215431000159118530"
+      },
+      {
+        "word": "smoother_payment_process",
+        "frequency": 1,
+        "ticket_id": "215431000159118530"
+      },
+      {
+        "word": "payment_checkout_failure",
+        "frequency": 1,
+        "ticket_id": "215431000159725330"
+      },
+      {
+        "word": "improved_payment_error_handling",
+        "frequency": 1,
+        "ticket_id": "215431000159725330"
+      },
+      {
+        "word": "enhanced_checkout_flow",
+        "frequency": 1,
+        "ticket_id": "215431000159725330"
+      },
+      {
+        "word": "better_credits_information",
+        "frequency": 1,
+        "ticket_id": "215431000158922144"
+      },
+      {
+        "word": "better_add_to_wallet_flow",
+        "frequency": 1,
+        "ticket_id": "215431000158141327"
+      },
+      {
+        "word": "transactional_monitoring",
+        "frequency": 1,
+        "ticket_id": "215431000157720782"
+      },
+      {
+        "word": "enhanced_credits_flow",
+        "frequency": 1,
+        "ticket_id": "215431000157720782"
+      },
+      {
+        "word": "payment_failure",
+        "frequency": 1,
+        "ticket_id": "215431000151386796"
+      },
+      {
+        "word": "payment_gateway_issues",
+        "frequency": 1,
+        "ticket_id": "215431000151386796"
+      },
+      {
+        "word": "promo_code_issue",
+        "frequency": 1,
+        "ticket_id": "215431000153718548"
+      },
+      {
+        "word": "promo_code_validation",
+        "frequency": 1,
+        "ticket_id": "215431000153718548"
+      },
+      {
+        "word": "missing_referral_credits",
+        "frequency": 6,
+        "ticket_id": "215431000154692192"
+      },
+      {
+        "word": "referral_tracking",
+        "frequency": 6,
+        "ticket_id": "215431000154692192"
+      },
+      {
+        "word": "refund_processing",
+        "frequency": 1,
+        "ticket_id": "215431000158704001"
+      },
+      {
+        "word": "wallet_not_recharged",
+        "frequency": 1,
+        "ticket_id": "215431000160989025"
+      },
+      {
+        "word": "booking_failure",
+        "frequency": 1,
+        "ticket_id": "215431000153111001"
+      },
+      {
+        "word": "payment_glitch",
+        "frequency": 1,
+        "ticket_id": "215431000161063891"
+      },
+      {
+        "word": "better_cancellation_policy",
+        "frequency": 1,
+        "ticket_id": "215431000160963172"
+      },
+      {
+        "word": "booking_date_error",
+        "frequency": 1,
+        "ticket_id": "215431000156933711"
+      },
+      {
+        "word": "better_booking_interface",
+        "frequency": 1,
+        "ticket_id": "215431000156933711"
+      },
+      {
+        "word": "better_booking_error_modal",
+        "frequency": 1,
+        "ticket_id": "215431000156933711"
+      },
+      {
+        "word": "refund_not_processed",
+        "frequency": 1,
+        "ticket_id": "215431000153466679"
+      },
+      {
+        "word": "refund_tracking_system",
+        "frequency": 1,
+        "ticket_id": "215431000153466679"
+      },
+      {
+        "word": "refund_monitoring_system",
+        "frequency": 1,
+        "ticket_id": "215431000158308392"
+      },
+      {
+        "word": "better_refund_options",
+        "frequency": 1,
+        "ticket_id": "215431000152655172"
+      },
+      {
+        "word": "unable_to_use_credits",
+        "frequency": 1,
+        "ticket_id": "215431000158329587"
+      },
+      {
+        "word": "payment_and_booking_sync",
+        "frequency": 1,
+        "ticket_id": "215431000161804663"
+      },
+      {
+        "word": "payment_not_received",
+        "frequency": 1,
+        "ticket_id": "215431000155685486"
+      },
+      {
+        "word": "double_payment",
+        "frequency": 1,
+        "ticket_id": "215431000153761080"
+      },
+      {
+        "word": "payment_confirmation",
+        "frequency": 1,
+        "ticket_id": "215431000153761080"
+      },
+      {
+        "word": "incorrect_payment",
+        "frequency": 1,
+        "ticket_id": "215431000155477025"
+      },
+      {
+        "word": "payment_verification",
+        "frequency": 1,
+        "ticket_id": "215431000155477025"
+      },
+      {
+        "word": "refund_not_received",
+        "frequency": 1,
+        "ticket_id": "215431000154499423"
+      },
+      {
+        "word": "unable_to_view_private_cabin_option",
+        "frequency": 1,
+        "ticket_id": "215431000151421001"
+      },
+      {
+        "word": "Better option visibility for private cabins",
+        "frequency": 1,
+        "ticket_id": "215431000151421001"
+      },
+      {
+        "word": "Improve feature display for private cabins",
+        "frequency": 1,
+        "ticket_id": "215431000151421001"
+      },
+      {
+        "word": "Better error handling for unavailable bookings",
+        "frequency": 1,
+        "ticket_id": "215431000154993345"
+      },
+      {
+        "word": "Improve clarity on booking availability",
+        "frequency": 1,
+        "ticket_id": "215431000154993345"
+      }
+    ]
+  },
+  "confusingIssues": {
+    "keyWords": [
+      {
+        "word": "login_error",
+        "frequency": 1,
+        "ticket_id": "215431000159105013"
+      },
+      {
+        "word": "incorrect_details",
+        "frequency": 1,
+        "ticket_id": "215431000155276329"
+      },
+      {
+        "word": "account_creation_error",
+        "frequency": 1,
+        "ticket_id": "215431000154438268"
+      },
+      {
+        "word": "duplicate_account",
+        "frequency": 1,
+        "ticket_id": "215431000155981081"
+      },
+      {
+        "word": "activation_code_entry",
+        "frequency": 1,
+        "ticket_id": "215431000160535512"
+      },
+      {
+        "word": "access_process",
+        "frequency": 2,
+        "ticket_id": "215431000159840025"
+      },
+      {
+        "word": "user_deactivated_error",
+        "frequency": 1,
+        "ticket_id": "215431000160155001"
+      },
+      {
+        "word": "connection_instructions",
+        "frequency": 1,
+        "ticket_id": "215431000156036479"
+      },
+      {
+        "word": "login_issue",
+        "frequency": 1,
+        "ticket_id": "215431000159650174"
+      },
+      {
+        "word": "refund_process",
+        "frequency": 2,
+        "ticket_id": "215431000157248001"
+      },
+      {
+        "word": "parking_charges",
+        "frequency": 1,
+        "ticket_id": "215431000155056794"
+      },
+      {
+        "word": "sign_in_process",
+        "frequency": 1,
+        "ticket_id": "215431000161744001"
+      },
+      {
+        "word": "no_staff_at_desk",
+        "frequency": 1,
+        "ticket_id": "215431000154315865"
+      },
+      {
+        "word": "platform_sync_issue",
+        "frequency": 1,
+        "ticket_id": "215431000153210001"
+      },
+      {
+        "word": "booking_adjustment",
+        "frequency": 1,
+        "ticket_id": "215431000154647077"
+      },
+      {
+        "word": "booking_rescheduling",
+        "frequency": 1,
+        "ticket_id": "215431000154802015"
+      },
+      {
+        "word": "booking_availability",
+        "frequency": 1,
+        "ticket_id": "215431000154087045"
+      },
+      {
+        "word": "credit_usage",
+        "frequency": 1,
+        "ticket_id": "215431000153452001"
+      },
+      {
+        "word": "wallet_functionality",
+        "frequency": 1,
+        "ticket_id": "215431000160975816"
+      },
+      {
+        "word": "booking_process",
+        "frequency": 2,
+        "ticket_id": "215431000160693149"
+      },
+      {
+        "word": "promo_code_application",
+        "frequency": 1,
+        "ticket_id": "215431000153186001"
+      },
+      {
+        "word": "booking_date_selection",
+        "frequency": 5,
+        "ticket_id": "215431000154244013"
+      },
+      {
+        "word": "date_change_process",
+        "frequency": 1,
+        "ticket_id": "215431000151818355"
+      },
+      {
+        "word": "guest_booking_process",
+        "frequency": 1,
+        "ticket_id": "215431000152870001"
+      },
+      {
+        "word": "wrong_booking_location",
+        "frequency": 2,
+        "ticket_id": "215431000157765315"
+      },
+      {
+        "word": "duplicate_booking",
+        "frequency": 1,
+        "ticket_id": "215431000155824122"
+      },
+      {
+        "word": "location_mistake",
+        "frequency": 1,
+        "ticket_id": "215431000160318869"
+      },
+      {
+        "word": "parking_information",
+        "frequency": 1,
+        "ticket_id": "215431000155275001"
+      },
+      {
+        "word": "wrong_location_selection",
+        "frequency": 1,
+        "ticket_id": "215431000156017226"
+      },
+      {
+        "word": "booking_date",
+        "frequency": 4,
+        "ticket_id": "215431000155078001"
+      },
+      {
+        "word": "date_selection",
+        "frequency": 2,
+        "ticket_id": "215431000161343001"
+      },
+      {
+        "word": "booking_time",
+        "frequency": 1,
+        "ticket_id": "215431000155107676"
+      },
+      {
+        "word": "time_change",
+        "frequency": 1,
+        "ticket_id": "215431000155099997"
+      },
+      {
+        "word": "booking_date_error",
+        "frequency": 2,
+        "ticket_id": "215431000160983945"
+      },
+      {
+        "word": "booking_name_change",
+        "frequency": 1,
+        "ticket_id": "215431000159073148"
+      },
+      {
+        "word": "refund_process_confusion",
+        "frequency": 1,
+        "ticket_id": "215431000157730001"
+      },
+      {
+        "word": "booking_cancellation_mistake",
+        "frequency": 1,
+        "ticket_id": "215431000160293242"
+      },
+      {
+        "word": "Support_contact_process",
+        "frequency": 1,
+        "ticket_id": "215431000155443172"
+      },
+      {
+        "word": "Booking_refund_process",
+        "frequency": 1,
+        "ticket_id": "215431000154468823"
+      },
+      {
+        "word": "mistaken_booking",
+        "frequency": 1,
+        "ticket_id": "215431000160209069"
+      },
+      {
+        "word": "booking_date_confusion",
+        "frequency": 2,
+        "ticket_id": "215431000156510751"
+      },
+      {
+        "word": "accidental_booking",
+        "frequency": 2,
+        "ticket_id": "215431000161066174"
+      },
+      {
+        "word": "booking_modification",
+        "frequency": 1,
+        "ticket_id": "215431000156016052"
+      },
+      {
+        "word": "reception_availability",
+        "frequency": 1,
+        "ticket_id": "215431000158677323"
+      },
+      {
+        "word": "timeslot_issue",
+        "frequency": 1,
+        "ticket_id": "215431000161573013"
+      },
+      {
+        "word": "booking_mistake",
+        "frequency": 4,
+        "ticket_id": "215431000160462681"
+      },
+      {
+        "word": "modify_booking",
+        "frequency": 2,
+        "ticket_id": "215431000158819721"
+      },
+      {
+        "word": "booking_flow",
+        "frequency": 3,
+        "ticket_id": "215431000160644244"
+      },
+      {
+        "word": "incorrect_date_selected",
+        "frequency": 1,
+        "ticket_id": "215431000156099368"
+      },
+      {
+        "word": "incorrect_booking_confirmed",
+        "frequency": 1,
+        "ticket_id": "215431000156788001"
+      },
+      {
+        "word": "delayed_email_confirmation",
+        "frequency": 1,
+        "ticket_id": "215431000161016492"
+      },
+      {
+        "word": "booking_for_others",
+        "frequency": 1,
+        "ticket_id": "215431000154694095"
+      },
+      {
+        "word": "coupon_usage",
+        "frequency": 1,
+        "ticket_id": "215431000154827226"
+      },
+      {
+        "word": "location_change_process",
+        "frequency": 1,
+        "ticket_id": "215431000154450475"
+      },
+      {
+        "word": "guest_management",
+        "frequency": 1,
+        "ticket_id": "215431000161601388"
+      },
+      {
+        "word": "booking_date_mistake",
+        "frequency": 2,
+        "ticket_id": "215431000158500220"
+      },
+      {
+        "word": "Booking_Error",
+        "frequency": 1,
+        "ticket_id": "215431000154001013"
+      },
+      {
+        "word": "Date_Error",
+        "frequency": 1,
+        "ticket_id": "215431000160887111"
+      },
+      {
+        "word": "wrong_booking",
+        "frequency": 1,
+        "ticket_id": "215431000154201488"
+      },
+      {
+        "word": "booking_history",
+        "frequency": 1,
+        "ticket_id": "215431000159073617"
+      },
+      {
+        "word": "incorrect_booking",
+        "frequency": 1,
+        "ticket_id": "215431000156583393"
+      },
+      {
+        "word": "unclear_amenity_label",
+        "frequency": 1,
+        "ticket_id": "215431000151850007"
+      },
+      {
+        "word": "booking_cancellation",
+        "frequency": 1,
+        "ticket_id": "215431000160208022"
+      },
+      {
+        "word": "booking_confirmation_discrepancy",
+        "frequency": 1,
+        "ticket_id": "215431000159624875"
+      },
+      {
+        "word": "booking_display_issue",
+        "frequency": 1,
+        "ticket_id": "215431000155006597"
+      },
+      {
+        "word": "location_selection",
+        "frequency": 1,
+        "ticket_id": "215431000153761806"
+      },
+      {
+        "word": "location_mismatch",
+        "frequency": 1,
+        "ticket_id": "215431000152898001"
+      },
+      {
+        "word": "gst_charges",
+        "frequency": 1,
+        "ticket_id": "215431000158303829"
+      },
+      {
+        "word": "edit_booking_process",
+        "frequency": 1,
+        "ticket_id": "215431000154797569"
+      },
+      {
+        "word": "extend_booking_process",
+        "frequency": 1,
+        "ticket_id": "215431000157745418"
+      },
+      {
+        "word": "discount_offers",
+        "frequency": 1,
+        "ticket_id": "215431000156465162"
+      },
+      {
+        "word": "F&B_offers",
+        "frequency": 1,
+        "ticket_id": "215431000157294874"
+      },
+      {
+        "word": "night_booking",
+        "frequency": 1,
+        "ticket_id": "215431000161332073"
+      },
+      {
+        "word": "referral_code_entry",
+        "frequency": 1,
+        "ticket_id": "215431000160963013"
+      },
+      {
+        "word": "otp_entry_for_admin",
+        "frequency": 1,
+        "ticket_id": "215431000158277001"
+      },
+      {
+        "word": "booking_policy_confusion",
+        "frequency": 1,
+        "ticket_id": "215431000152669186"
+      },
+      {
+        "word": "unclear_space_details",
+        "frequency": 1,
+        "ticket_id": "215431000152607851"
+      },
+      {
+        "word": "unclear_balance",
+        "frequency": 1,
+        "ticket_id": "215431000154208228"
+      },
+      {
+        "word": "unclear_cancellation_policy",
+        "frequency": 1,
+        "ticket_id": "215431000158959037"
+      },
+      {
+        "word": "communication_channel",
+        "frequency": 1,
+        "ticket_id": "215431000154717437"
+      },
+      {
+        "word": "transaction_history",
+        "frequency": 1,
+        "ticket_id": "215431000154223455"
+      },
+      {
+        "word": "customer_support_contact",
+        "frequency": 1,
+        "ticket_id": "215431000154933290"
+      },
+      {
+        "word": "credit_value_confusion",
+        "frequency": 1,
+        "ticket_id": "215431000156782132"
+      },
+      {
+        "word": "credits_validity_confusion",
+        "frequency": 1,
+        "ticket_id": "215431000160806677"
+      },
+      {
+        "word": "expired_credits_confusion",
+        "frequency": 1,
+        "ticket_id": "215431000156862169"
+      },
+      {
+        "word": "claiming_amount_confusion",
+        "frequency": 1,
+        "ticket_id": "215431000160359194"
+      },
+      {
+        "word": "credits_management",
+        "frequency": 1,
+        "ticket_id": "215431000158922144"
+      },
+      {
+        "word": "booking_confirmation",
+        "frequency": 1,
+        "ticket_id": "215431000159240468"
+      },
+      {
+        "word": "booking_visibility",
+        "frequency": 1,
+        "ticket_id": "215431000153244015"
+      }
+    ]
+  }
+}

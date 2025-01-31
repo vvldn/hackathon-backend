@@ -1,6 +1,7 @@
 var dbProps = {
     prod: {
-        url:"mongodb+srv://vigvldn:hahapass@cluster0.gsvkiv6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        url:"mongodb+srv://vigvldn:hahapass@cluster0.gsvkiv6.mongodb.net/Hackathon?retryWrites=true&w=majority&appName=Cluster0",
+        openAiApiKey: '',
     },
     dev: {
     }
