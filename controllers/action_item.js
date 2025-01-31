@@ -8,7 +8,7 @@ async function getActionItem(req, res, next) {
     const actionItem = ActionItem.findById(actionItemId).lean();
     return res.send(actionItem);
   } catch (err) {
-    console.log(JSON.stringify(err));
+    console.log('error', JSON.stringify(err));
     return next(err);
   }
 }
@@ -20,7 +20,7 @@ async function processItem(req, res, next) {
     await ActionItem.findByIdAndUpdate({ _id: actionItemId }, { status: actionItemStatus.REJECTED });
     return res.send({ success: true });
   } catch (err) {
-    console.log(JSON.stringify(err));
+    console.log('error', JSON.stringify(err));
     return next(err);
   }
 }
@@ -32,7 +32,7 @@ async function deleteItem(req, res, next) {
     await ActionItem.findByIdAndUpdate({ _id: actionItemId }, { status: actionItemStatus.REJECTED });
     return res.send({ success: true });
   } catch (err) {
-    console.log(JSON.stringify(err));
+    console.log('error', JSON.stringify(err));
     return next(err);
   }
 }
@@ -44,7 +44,7 @@ async function getAllActionItems(req, res, next) {
     const actionItems = await ActionItem.find({ status: actionItemStatus }).lean();
     return res.send(actionItems);
   } catch (err) {
-    console.log(JSON.stringify(err));
+    console.log('error', JSON.stringify(err));
     return next(err);
   }
 }
