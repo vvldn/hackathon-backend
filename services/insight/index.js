@@ -18,7 +18,8 @@ async function getPopulatedInsights() {
   const insightsWithTicketsPopulated = await Promise.all(_.map(insights, async insight => {
     const { tickets_that_support_this } = insight;
     const tickets = await Ticket.find({ id: { $in: tickets_that_support_this } }).lean();
-    return { ...insight, tickets };
+    const formatted_tickets = _.map(tickets, ticket => _.omit(ticket, ['cf', 'customFields']));
+    return { ...insight, tickets: formatted_tickets };
   }));
   return insightsWithTicketsPopulated;
 }
