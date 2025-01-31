@@ -6,7 +6,7 @@ const openAiSupport = require('./../../support/open_ai');
 
 const Insight = require('../../models/insight');
 const ActionItem = require('../../models/action-items');
-const Ticket = require('../../models/ticket');
+const Ticket = require('../../models/tickets');
 
 async function setInsights(insights) {
   await Insight.deleteMany({});
