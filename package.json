@@ -7,7 +7,8 @@
   },
   "dependencies": {
     "aws-sdk": "2.1692.0",
-    "axios": "1.7.9",
+    "axios": "^1.7.9",
+    "base-64": "^1.0.0",
     "body-parser": "~1.17.1",
     "cookie-parser": "~1.4.3",
     "cors": "^2.8.3",
@@ -21,5 +22,21 @@
     "openai": "^4.81.0",
     "underscore": "^1.13.7",
     "zod": "^3.24.1"
-  }
+  },
+  "main": "app.js",
+  "bin": {
+    "restapi": "bin/mongoose_client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvldn/hackathon-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvldn/hackathon-backend/issues"
+  },
+  "homepage": "https://github.com/vvldn/hackathon-backend#readme",
+  "description": ""
 }
