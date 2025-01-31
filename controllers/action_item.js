@@ -5,7 +5,7 @@ async function getActionItem(req, res, next) {
   try {
     const { actionItemId } = req.params;
     if (!actionItemId) throw new Error('Action Item ID is required');
-    const actionItem = ActionItem.findById(actionItemId).lean();
+    const actionItem = await ActionItem.findById(actionItemId).lean();
     return res.send(actionItem);
   } catch (err) {
     console.log('error', JSON.stringify(err));
