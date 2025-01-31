@@ -14,7 +14,7 @@ async function setInsights(insights) {
 }
 
 async function getPopulatedInsights() {
-  const insights = Insight.find({}).lean();
+  const insights = await Insight.find({}).lean();
   const insightsWithTicketsPopulated = await Promise.all(_.map(insights, async insight => {
     const { tickets_that_support_this } = insight;
     const tickets = await Ticket.find({ id: { $in: tickets_that_support_this } }).lean();
