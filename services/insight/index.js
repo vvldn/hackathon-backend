@@ -5,6 +5,7 @@ const summaryJson = require('../../python_scripts/summary.json');
 const openAiSupport = require('./../../support/open_ai');
 
 const Insight = require('../../models/insight');
+const ActionItem = require('../../models/action-items');
 
 async function setInsights(_insightsJson) {
   await Insight.deleteMany({});
@@ -23,9 +24,12 @@ async function reGenerateInsights() {
   const openAiResponses = await Promise.all(_.map(prompts, prompt => openAiSupport.getPromptResponse(prompt, promptService.responseObject)));
   const formattedOpenAiResponses = _.flatten(_.map(openAiResponses, response => response.insights));
   const updatedInsightsJson = { insights: formattedOpenAiResponses };
-  // const actionItems = _.map(formattedOpenAiResponses, insight => { actionItemData: insight.action_item_data, actionItemType: insight.action_item_type });
-  // const storedActionItems = await Promise.all(_.map(actionItems, storeActionItems));
-  // const responseWithActionItemIds = [];
+  const actionItems = _.map(formattedOpenAiResponses, insight => ({ action_item_data: insight.action_item_data, action_item_type: insight.action_item_type }));
+  const actionItemsInserted = await ActionItem.create(actionItems);
+  const responseWithActionItemIds = [];
+  _.forEach(formattedOpenAiResponses, (insight, index) => {
+    responseWithActionItemIds.push({ ...insight, action_item_id: actionItemsInserted[index]._id });
+  });
   setInsights(updatedInsightsJson);
   console.log('generate insights done');
   return getPopulatedInsights();
