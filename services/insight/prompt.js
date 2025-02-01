@@ -53,7 +53,7 @@ function generatePromptForOverview(summaryJson, keyName) {
   const prompt = `
   Based on the following ${issuePrefixes[keyName]}, what are the action items that you would suggest?
   Try to produce 2-3 action items.
-  Backup each action item you suggest with numbers from the data.
+  Backup each action item you suggest with specific insights from data. Each insight has to be plain english text, try to not use direct tags read from the data.
   Also suggest the impact this action item would have, and how severe this is.
 
   There could be duplication in the input, account for that too. If possible, do a frequency count.
